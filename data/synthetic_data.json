@@ -1,0 +1,8002 @@
+[
+  {
+    "text": "The pharmacy app suggests gentle skincare products and makes checkout easy.",
+    "labels": [
+      "Pharmacy",
+      "Skincare",
+      "User Experience"
+    ]
+  },
+  {
+    "text": "An ad showed how chemical engineers help aerospace teams make safer rocket fuels.",
+    "labels": [
+      "Advertising",
+      "Aerospace Engineering",
+      "Chemical Engineering"
+    ]
+  },
+  {
+    "text": "An ecommerce site used IT tools to ensure equal access and respect civil rights.",
+    "labels": [
+      "Civil Rights",
+      "Ecommerce",
+      "Information Technology"
+    ]
+  },
+  {
+    "text": "A cartoon series used anthropology insights to teach kids about sustainability.",
+    "labels": [
+      "Anthropology",
+      "Cartoons",
+      "Sustainability"
+    ]
+  },
+  {
+    "text": "A pharmacy used systems engineering to improve its drug supply chain.",
+    "labels": [
+      "Pharmacy",
+      "Supply Chain",
+      "Systems Engineering"
+    ]
+  },
+  {
+    "text": "Farmers planned aquaculture ponds with bioethics in mind and fit them into the landscape.",
+    "labels": [
+      "Aquaculture",
+      "Bioethics",
+      "Landscaping"
+    ]
+  },
+  {
+    "text": "The city used taxes to support recycling across the supply chain.",
+    "labels": [
+      "Recycling",
+      "Supply Chain",
+      "Taxation"
+    ]
+  },
+  {
+    "text": "A faith group built a user friendly site to share teachings on human rights.",
+    "labels": [
+      "Human Rights",
+      "Theology",
+      "User Experience"
+    ]
+  },
+  {
+    "text": "A linguist compared beekeeping terms and sports slang in a school talk.",
+    "labels": [
+      "Beekeeping",
+      "Linguistics",
+      "Sports"
+    ]
+  },
+  {
+    "text": "A chef taught how geography shapes clay pots used for cooking.",
+    "labels": [
+      "Culinary Arts",
+      "Geography",
+      "Pottery"
+    ]
+  },
+  {
+    "text": "Software engineers used code to animate motion based on differential equations.",
+    "labels": [
+      "Animation",
+      "Differential Equations",
+      "Software Engineering"
+    ]
+  },
+  {
+    "text": "Public officials used soil science data to protect farms and support human rights.",
+    "labels": [
+      "Human Rights",
+      "Public Administration",
+      "Soil Science"
+    ]
+  },
+  {
+    "text": "A crafter made an animated model to explain an astrophysics idea.",
+    "labels": [
+      "Animation",
+      "Astrophysics",
+      "Crafting"
+    ]
+  },
+  {
+    "text": "An art class used game theory to discuss ethical choices in visual design.",
+    "labels": [
+      "Ethics",
+      "Game Theory",
+      "Visual Arts"
+    ]
+  },
+  {
+    "text": "A radio show covered a circus visit to cheer seniors in geriatric care.",
+    "labels": [
+      "Broadcasting",
+      "Circus",
+      "Geriatrics"
+    ]
+  },
+  {
+    "text": "Doctors used scans to study fungi that can harm coffee plants.",
+    "labels": [
+      "Coffee",
+      "Fungi",
+      "Radiology"
+    ]
+  },
+  {
+    "text": "Fish farmers used meteorology and bay topology to place pens safely.",
+    "labels": [
+      "Aquaculture",
+      "Meteorology",
+      "Topology"
+    ]
+  },
+  {
+    "text": "A lab used data science and cybersecurity to manage a fungi photo database.",
+    "labels": [
+      "Cybersecurity",
+      "Data Science",
+      "Fungi"
+    ]
+  },
+  {
+    "text": "An industrial engineer improved boating workflows for rescue teams that protect human rights.",
+    "labels": [
+      "Boating",
+      "Human Rights",
+      "Industrial Engineering"
+    ]
+  },
+  {
+    "text": "A debate used careful rhetoric about hunting rules to protect plant habitats.",
+    "labels": [
+      "Hunting",
+      "Plants",
+      "Rhetoric"
+    ]
+  },
+  {
+    "text": "In a college class, students analyzed a cartoon about building safer railways.",
+    "labels": [
+      "Cartoons",
+      "Higher Education",
+      "Railways"
+    ]
+  },
+  {
+    "text": "A heart doctor showed how special alloys make tiny stents work, which felt like magic.",
+    "labels": [
+      "Cardiology",
+      "Magic",
+      "Materials Engineering"
+    ]
+  },
+  {
+    "text": "An artist used computer graphics to map skin tones for a dermatology poster.",
+    "labels": [
+      "Computer Graphics",
+      "Dermatology",
+      "Visual Arts"
+    ]
+  },
+  {
+    "text": "The city council set rules for a nanotech lab and asked for a clear project plan.",
+    "labels": [
+      "Governance",
+      "Nanotechnology",
+      "Project Management"
+    ]
+  },
+  {
+    "text": "A study used statistics to track how wars affected mental health across history.",
+    "labels": [
+      "History",
+      "Mental Health",
+      "Statistics"
+    ]
+  },
+  {
+    "text": "A school play used maps and a quantum theme to teach geography on stage.",
+    "labels": [
+      "Geography",
+      "Quantum Mechanics",
+      "Theater"
+    ]
+  },
+  {
+    "text": "An artist painted a scene of a pregnant fisher by the docks.",
+    "labels": [
+      "Fishing",
+      "Obstetrics",
+      "Visual Arts"
+    ]
+  },
+  {
+    "text": "Researchers used population data to study how coastal communities face ocean changes and civil rights issues.",
+    "labels": [
+      "Civil Rights",
+      "Demography",
+      "Oceanography"
+    ]
+  },
+  {
+    "text": "In media class, we traced how wartime cartoons shaped public views in history.",
+    "labels": [
+      "Cartoons",
+      "History",
+      "Media Studies"
+    ]
+  },
+  {
+    "text": "An anthropologist mapped the shapes used by doctors to place nerve blocks in anesthesia.",
+    "labels": [
+      "Anesthesiology",
+      "Anthropology",
+      "Geometry"
+    ]
+  },
+  {
+    "text": "The lab invited an auditor to check chemical records and discuss ethics and truth.",
+    "labels": [
+      "Auditing",
+      "Chemistry",
+      "Philosophy"
+    ]
+  },
+  {
+    "text": "A hotel chain invested in mushroom farms to serve fresh fungi dishes.",
+    "labels": [
+      "Fungi",
+      "Hospitality",
+      "Investments"
+    ]
+  },
+  {
+    "text": "Planners used geometric models and weather data to design safer city streets.",
+    "labels": [
+      "Geometry",
+      "Meteorology",
+      "Urban Studies"
+    ]
+  },
+  {
+    "text": "A novel about a rural midwife showed how soil health shaped birth and farm life.",
+    "labels": [
+      "Literature",
+      "Obstetrics",
+      "Soil Science"
+    ]
+  },
+  {
+    "text": "An app used augmented reality to show galaxy poems on the night sky.",
+    "labels": [
+      "Augmented Reality",
+      "Cosmology",
+      "Poetry"
+    ]
+  },
+  {
+    "text": "A debate at an esports event used logic to ask what makes virtual wins real.",
+    "labels": [
+      "Esports",
+      "Logic",
+      "Metaphysics"
+    ]
+  },
+  {
+    "text": "A lead engineer gave a clear speech on how lasers guide a spacecraft.",
+    "labels": [
+      "Aerospace Engineering",
+      "Photonics",
+      "Rhetoric"
+    ]
+  },
+  {
+    "text": "A coastal school taught fisheries science with lessons on ethics and care for nature.",
+    "labels": [
+      "Education",
+      "Fisheries",
+      "Philosophy"
+    ]
+  },
+  {
+    "text": "An anthropologist made maps of land use to support a court case on tribal rights.",
+    "labels": [
+      "Anthropology",
+      "Cartography",
+      "Law"
+    ]
+  },
+  {
+    "text": "Analysts used math models to study how city politics shape funding for sports teams.",
+    "labels": [
+      "Mathematics",
+      "Political Science",
+      "Sports"
+    ]
+  },
+  {
+    "text": "We used game theory to split hunting time and knitting work so no one felt cheated.",
+    "labels": [
+      "Game Theory",
+      "Hunting",
+      "Knitting"
+    ]
+  },
+  {
+    "text": "The vineyard used calculus to map hiking paths for safe wine tours.",
+    "labels": [
+      "Calculus",
+      "Hiking",
+      "Wine"
+    ]
+  },
+  {
+    "text": "An app used algorithms and local demography to plan safe mountaineering routes.",
+    "labels": [
+      "Algorithms",
+      "Demography",
+      "Mountaineering"
+    ]
+  },
+  {
+    "text": "Aviation engineers use probability and structural engineering to test wings.",
+    "labels": [
+      "Aviation",
+      "Probability",
+      "Structural Engineering"
+    ]
+  },
+  {
+    "text": "A bioethics board reviewed a project that used quantum mechanics and topology for medical tools.",
+    "labels": [
+      "Bioethics",
+      "Quantum Mechanics",
+      "Topology"
+    ]
+  },
+  {
+    "text": "On a mountaineering trip, we used epistemology to ask how we know what beauty is.",
+    "labels": [
+      "Beauty",
+      "Epistemology",
+      "Mountaineering"
+    ]
+  },
+  {
+    "text": "A poetry project explored ethics in genomics and warned against careless edits.",
+    "labels": [
+      "Ethics",
+      "Genomics",
+      "Poetry"
+    ]
+  },
+  {
+    "text": "A game design team used astrophysics and nuclear engineering ideas to model stars.",
+    "labels": [
+      "Astrophysics",
+      "Game Design",
+      "Nuclear Engineering"
+    ]
+  },
+  {
+    "text": "A journalism piece explained how a religion class used topology to draw a maze.",
+    "labels": [
+      "Journalism",
+      "Religion",
+      "Topology"
+    ]
+  },
+  {
+    "text": "A workshop linked international relations, metaphysics about personhood, and care in social work.",
+    "labels": [
+      "International Relations",
+      "Metaphysics",
+      "Social Work"
+    ]
+  },
+  {
+    "text": "A comics issue used demography and genetics to show how a city changes.",
+    "labels": [
+      "Comics",
+      "Demography",
+      "Genetics"
+    ]
+  },
+  {
+    "text": "An epistemology talk asked hunters and metalworking students how they know a tool is ready.",
+    "labels": [
+      "Epistemology",
+      "Hunting",
+      "Metalworking"
+    ]
+  },
+  {
+    "text": "A study used anthropology and criminology to see how cooking rules shape a street market.",
+    "labels": [
+      "Anthropology",
+      "Cooking",
+      "Criminology"
+    ]
+  },
+  {
+    "text": "Publishing managers planned a series on animals using clear management steps.",
+    "labels": [
+      "Animals",
+      "Management",
+      "Publishing"
+    ]
+  },
+  {
+    "text": "A comics site used interaction design to teach corporate governance to teens.",
+    "labels": [
+      "Comics",
+      "Corporate Governance",
+      "Interaction Design"
+    ]
+  },
+  {
+    "text": "A comics tutorial mixed nanotechnology facts with simple programming puzzles.",
+    "labels": [
+      "Comics",
+      "Nanotechnology",
+      "Programming"
+    ]
+  },
+  {
+    "text": "A case in criminology used accounting and visual arts to catch art fraud.",
+    "labels": [
+      "Accounting",
+      "Criminology",
+      "Visual Arts"
+    ]
+  },
+  {
+    "text": "A virtual reality demo mixed fashion shows with horticulture in a digital garden.",
+    "labels": [
+      "Fashion",
+      "Horticulture",
+      "Virtual Reality"
+    ]
+  },
+  {
+    "text": "A philosophy club linked aquaculture jobs with astronomy maps and big life questions.",
+    "labels": [
+      "Aquaculture",
+      "Astronomy",
+      "Philosophy"
+    ]
+  },
+  {
+    "text": "In beekeeping class, we used physics and epistemology to test how bees learn.",
+    "labels": [
+      "Beekeeping",
+      "Epistemology",
+      "Physics"
+    ]
+  },
+  {
+    "text": "Chefs use data from fish farms, and a model suggests the best harvest time.",
+    "labels": [
+      "Aquaculture",
+      "Culinary Arts",
+      "Machine Learning"
+    ]
+  },
+  {
+    "text": "Gardeners test soil chemicals, and a computer model predicts plant growth.",
+    "labels": [
+      "Chemistry",
+      "Computational Biology",
+      "Gardening"
+    ]
+  },
+  {
+    "text": "An HR team at a telehealth firm writes fair rules for using staff genetic data.",
+    "labels": [
+      "Bioethics",
+      "Human Resources",
+      "Telecommunications"
+    ]
+  },
+  {
+    "text": "On a hike, students discuss how magic stories show different gender roles.",
+    "labels": [
+      "Gender Studies",
+      "Hiking",
+      "Magic"
+    ]
+  },
+  {
+    "text": "Designers plan a lab, and microbiology proteomics guides where benches and sinks go.",
+    "labels": [
+      "Interior Design",
+      "Microbiology",
+      "Proteomics"
+    ]
+  },
+  {
+    "text": "An app for bikers uses volcano data to map safe routes.",
+    "labels": [
+      "Computer Science",
+      "Motorcycling",
+      "Volcanology"
+    ]
+  },
+  {
+    "text": "Art maps in a clinic help nurses explain health trends by region.",
+    "labels": [
+      "Geography",
+      "Nursing",
+      "Visual Arts"
+    ]
+  },
+  {
+    "text": "A store funds a sailing class that adapts gear for special education students.",
+    "labels": [
+      "Retail",
+      "Sailing",
+      "Special Education"
+    ]
+  },
+  {
+    "text": "Engineers use fish flow research to shape car vents and choose clear dashboard fonts.",
+    "labels": [
+      "Automotive Engineering",
+      "Ichthyology",
+      "Typography"
+    ]
+  },
+  {
+    "text": "A model reads gene data from biofuel microbes to boost clean energy output.",
+    "labels": [
+      "Bioinformatics",
+      "Machine Learning",
+      "Renewable Energy"
+    ]
+  },
+  {
+    "text": "Data scientists build a tool that uses speech recognition to track knitting rows.",
+    "labels": [
+      "Data Science",
+      "Knitting",
+      "Speech Recognition"
+    ]
+  },
+  {
+    "text": "A map shows food deserts, while new packaging materials help deliver fresh produce.",
+    "labels": [
+      "Cartography",
+      "Dietetics",
+      "Materials Science"
+    ]
+  },
+  {
+    "text": "A clinic uses 3D baby images on screens and recycles old devices.",
+    "labels": [
+      "Computer Graphics",
+      "Obstetrics",
+      "Recycling"
+    ]
+  },
+  {
+    "text": "Clinic teams study how clean air systems lower skin and reproductive irritants.",
+    "labels": [
+      "Dermatology",
+      "Environmental Engineering",
+      "Gynecology"
+    ]
+  },
+  {
+    "text": "Hospital planners check landslide maps to plan safe nurse evacuation routes.",
+    "labels": [
+      "Geomorphology",
+      "Nursing",
+      "Risk Management"
+    ]
+  },
+  {
+    "text": "Scientists study grape genes, animal pests, and how they change wine flavor.",
+    "labels": [
+      "Genetics",
+      "Wine",
+      "Zoology"
+    ]
+  },
+  {
+    "text": "A puzzle game teaches how light paths and bridge shapes work together.",
+    "labels": [
+      "Board Games",
+      "Optics",
+      "Structural Engineering"
+    ]
+  },
+  {
+    "text": "A garden at the clinic aids rehab, and scans track patient progress.",
+    "labels": [
+      "Horticulture",
+      "Physical Therapy",
+      "Radiology"
+    ]
+  },
+  {
+    "text": "Researchers debate data ethics while modeling genes linked to growth stages.",
+    "labels": [
+      "Bioinformatics",
+      "Human Development",
+      "Philosophy"
+    ]
+  },
+  {
+    "text": "An online shop updates its IT systems to meet new data privacy laws.",
+    "labels": [
+      "Ecommerce",
+      "Information Technology",
+      "Law"
+    ]
+  },
+  {
+    "text": "Policy analysts review glaciology reports on ice microbes, including fungi, to shape climate rules.",
+    "labels": [
+      "Fungi",
+      "Glaciology",
+      "Policy Analysis"
+    ]
+  },
+  {
+    "text": "Officials optimize rabies vaccination routes for animals to protect public health.",
+    "labels": [
+      "Animals",
+      "Optimization",
+      "Public Health"
+    ]
+  },
+  {
+    "text": "A startup uses chemical engineering to make better detectors for cosmology studies.",
+    "labels": [
+      "Chemical Engineering",
+      "Cosmology",
+      "Entrepreneurship"
+    ]
+  },
+  {
+    "text": "Doctors use microbiology tests and control systems in cardiology devices to guide heart care.",
+    "labels": [
+      "Cardiology",
+      "Control Systems",
+      "Microbiology"
+    ]
+  },
+  {
+    "text": "An ecommerce site sells auto upgrades and uses marketing to reach automotive engineering buyers.",
+    "labels": [
+      "Automotive Engineering",
+      "Ecommerce",
+      "Marketing"
+    ]
+  },
+  {
+    "text": "Pediatric researchers use bioinformatics to study how metalworking fumes affect child health.",
+    "labels": [
+      "Bioinformatics",
+      "Metalworking",
+      "Pediatrics"
+    ]
+  },
+  {
+    "text": "In history, cooks used game theory ideas to decide how to share food in hard times.",
+    "labels": [
+      "Cooking",
+      "Game Theory",
+      "History"
+    ]
+  },
+  {
+    "text": "A shipping firm uses physics and materials engineering to design better crates for logistics.",
+    "labels": [
+      "Logistics",
+      "Materials Engineering",
+      "Physics"
+    ]
+  },
+  {
+    "text": "A park study uses statistics from hikers to map safe beekeeping spots on trails.",
+    "labels": [
+      "Beekeeping",
+      "Hiking",
+      "Statistics"
+    ]
+  },
+  {
+    "text": "Scientists use genomics to study bright fish patterns that inspire beauty products.",
+    "labels": [
+      "Beauty",
+      "Genomics",
+      "Ichthyology"
+    ]
+  },
+  {
+    "text": "A film study reviews how movies show railway crashes and the role of insurance claims.",
+    "labels": [
+      "Film Studies",
+      "Insurance",
+      "Railways"
+    ]
+  },
+  {
+    "text": "Media studies track how news covers constitutional law debates on nanotechnology rules.",
+    "labels": [
+      "Constitutional Law",
+      "Media Studies",
+      "Nanotechnology"
+    ]
+  },
+  {
+    "text": "A museum program uses simple chemical engineering demos to teach art history to special education students.",
+    "labels": [
+      "Art History",
+      "Chemical Engineering",
+      "Special Education"
+    ]
+  },
+  {
+    "text": "A church human resources team uses clear information design to explain job policies tied to theology.",
+    "labels": [
+      "Human Resources",
+      "Information Design",
+      "Theology"
+    ]
+  },
+  {
+    "text": "A teacher writes poetry with number theory patterns to explain soil science facts.",
+    "labels": [
+      "Number Theory",
+      "Poetry",
+      "Soil Science"
+    ]
+  },
+  {
+    "text": "A skincare startup seeks investments and uses public relations to build trust.",
+    "labels": [
+      "Investments",
+      "Public Relations",
+      "Skincare"
+    ]
+  },
+  {
+    "text": "A radio crew drinks coffee while broadcasting a live mountaineering event.",
+    "labels": [
+      "Broadcasting",
+      "Coffee",
+      "Mountaineering"
+    ]
+  },
+  {
+    "text": "A study shows how electrical engineering props in magic tricks shape crowd behavior.",
+    "labels": [
+      "Electrical Engineering",
+      "Magic",
+      "Sociology"
+    ]
+  },
+  {
+    "text": "A medical tourism clinic uses organizational behavior training to improve its pathology lab.",
+    "labels": [
+      "Organizational Behavior",
+      "Pathology",
+      "Tourism"
+    ]
+  },
+  {
+    "text": "Students solve image puzzles with computer vision and algebra.",
+    "labels": [
+      "Algebra",
+      "Computer Vision",
+      "Puzzles"
+    ]
+  },
+  {
+    "text": "Engineers use math to design bridges and tracks that keep trains safe.",
+    "labels": [
+      "Mathematics",
+      "Railways",
+      "Structural Engineering"
+    ]
+  },
+  {
+    "text": "An AR headset shows hunters the layout of safe, well built blinds and stands.",
+    "labels": [
+      "Augmented Reality",
+      "Hunting",
+      "Structural Engineering"
+    ]
+  },
+  {
+    "text": "A nature movie uses clear maps of landforms to improve the viewer experience.",
+    "labels": [
+      "Cinema",
+      "Geomorphology",
+      "User Experience"
+    ]
+  },
+  {
+    "text": "A garden planner uses algebra to set plant spacing in easy to read guides.",
+    "labels": [
+      "Algebra",
+      "Horticulture",
+      "Information Design"
+    ]
+  },
+  {
+    "text": "Scientists used tooth enamel from old graves to study past cosmic radiation.",
+    "labels": [
+      "Archaeology",
+      "Astrophysics",
+      "Dentistry"
+    ]
+  },
+  {
+    "text": "A pattern book uses calculus curves to shape knit designs and smooth letters.",
+    "labels": [
+      "Calculus",
+      "Knitting",
+      "Typography"
+    ]
+  },
+  {
+    "text": "Bridge teams study how fungi on wood and bird nests can affect safety.",
+    "labels": [
+      "Civil Engineering",
+      "Fungi",
+      "Ornithology"
+    ]
+  },
+  {
+    "text": "Circus planners optimize act timing with heart rate data to reduce strain.",
+    "labels": [
+      "Cardiology",
+      "Circus",
+      "Optimization"
+    ]
+  },
+  {
+    "text": "A news show explains how bioinformatics and new medical devices work together.",
+    "labels": [
+      "Bioinformatics",
+      "Biomedical Engineering",
+      "Broadcasting"
+    ]
+  },
+  {
+    "text": "A school lesson teaches teens how good food choices can help clear skin.",
+    "labels": [
+      "Dietetics",
+      "Pedagogy",
+      "Skincare"
+    ]
+  },
+  {
+    "text": "A magazine prints sharp fossil photos with notes from the dig team.",
+    "labels": [
+      "Paleontology",
+      "Photography",
+      "Publishing"
+    ]
+  },
+  {
+    "text": "A hotel hosts a fashion photo shoot to promote its new rooms.",
+    "labels": [
+      "Fashion",
+      "Hospitality",
+      "Photography"
+    ]
+  },
+  {
+    "text": "Scholars use X-rays to read old garden scrolls without harming the pages.",
+    "labels": [
+      "Classics",
+      "Horticulture",
+      "Radiology"
+    ]
+  },
+  {
+    "text": "A VR runway shows clothes that change colors with a simple quantum theme.",
+    "labels": [
+      "Fashion",
+      "Quantum Mechanics",
+      "Virtual Reality"
+    ]
+  },
+  {
+    "text": "A music video uses microscope images of cells lit by bright lenses.",
+    "labels": [
+      "Microbiology",
+      "Music",
+      "Optics"
+    ]
+  },
+  {
+    "text": "Students solve bridge design puzzles with clear logic and load limits.",
+    "labels": [
+      "Civil Engineering",
+      "Logic",
+      "Puzzles"
+    ]
+  },
+  {
+    "text": "A poll asked if songs about atoms make people more interested in science.",
+    "labels": [
+      "Music",
+      "Nuclear Physics",
+      "Public Opinion"
+    ]
+  },
+  {
+    "text": "A study tests if the sound of flowing water calms the brain and boosts beauty ratings.",
+    "labels": [
+      "Beauty",
+      "Hydrology",
+      "Neurology"
+    ]
+  },
+  {
+    "text": "Engineers model heat and chemical spread to build safer poison sensors.",
+    "labels": [
+      "Biomedical Engineering",
+      "Thermodynamics",
+      "Toxicology"
+    ]
+  },
+  {
+    "text": "At a city run talk, experts discussed light, reality, and how policy guides research.",
+    "labels": [
+      "Metaphysics",
+      "Optics",
+      "Public Administration"
+    ]
+  },
+  {
+    "text": "The bakery tests electric oven controls and uses clean menu designs.",
+    "labels": [
+      "Baking",
+      "Electrical Engineering",
+      "Graphic Design"
+    ]
+  },
+  {
+    "text": "The hospital uses medical informatics to plan surgeries and control costs.",
+    "labels": [
+      "Business",
+      "Medical Informatics",
+      "Surgery"
+    ]
+  },
+  {
+    "text": "Data scientists analyze old photos to learn about history.",
+    "labels": [
+      "Data Science",
+      "History",
+      "Photography"
+    ]
+  },
+  {
+    "text": "The firm funds a project where chemical and environmental engineers cut pollution.",
+    "labels": [
+      "Chemical Engineering",
+      "Environmental Engineering",
+      "Finance"
+    ]
+  },
+  {
+    "text": "A city project manager tracks policy goals while redesigning a street.",
+    "labels": [
+      "Project Management",
+      "Public Policy",
+      "Urban Studies"
+    ]
+  },
+  {
+    "text": "On a boat trip abroad, the crew learns how constitutional law affects border searches.",
+    "labels": [
+      "Boating",
+      "Constitutional Law",
+      "Travel"
+    ]
+  },
+  {
+    "text": "A university lab uses electric sensors to study microbes while a class reviews constitutional rights.",
+    "labels": [
+      "Constitutional Law",
+      "Electrical Engineering",
+      "Microbiology"
+    ]
+  },
+  {
+    "text": "A jeweler posts new rings on social media and watches public opinion.",
+    "labels": [
+      "Jewelry",
+      "Public Opinion",
+      "Social Media"
+    ]
+  },
+  {
+    "text": "A chef leads a PR event that shares dishes from many regions.",
+    "labels": [
+      "Culinary Arts",
+      "Geography",
+      "Public Relations"
+    ]
+  },
+  {
+    "text": "A circus festival hosts a beekeeping show to promote biodiversity.",
+    "labels": [
+      "Beekeeping",
+      "Biodiversity",
+      "Circus"
+    ]
+  },
+  {
+    "text": "Software uses computer vision to map gene data in bioinformatics.",
+    "labels": [
+      "Bioinformatics",
+      "Computer Vision",
+      "Genomics"
+    ]
+  },
+  {
+    "text": "Materials science guides mechanical engineers in choosing alloys for robot arms.",
+    "labels": [
+      "Materials Science",
+      "Mechanical Engineering",
+      "Robotics"
+    ]
+  },
+  {
+    "text": "A streaming app uses algorithms to pick clips and cryptography to secure broadcasts.",
+    "labels": [
+      "Algorithms",
+      "Broadcasting",
+      "Cryptography"
+    ]
+  },
+  {
+    "text": "Analysts use calculus and probability to forecast policy outcomes.",
+    "labels": [
+      "Calculus",
+      "Policy Analysis",
+      "Probability"
+    ]
+  },
+  {
+    "text": "A college offers a class on gardening and campus landscaping.",
+    "labels": [
+      "Gardening",
+      "Higher Education",
+      "Landscaping"
+    ]
+  },
+  {
+    "text": "An airport play area uses bright graphics to teach young kids about planes.",
+    "labels": [
+      "Aviation",
+      "Early Childhood",
+      "Graphic Design"
+    ]
+  },
+  {
+    "text": "The team procures tools for a dig and tests old walls with structural engineering.",
+    "labels": [
+      "Archaeology",
+      "Procurement",
+      "Structural Engineering"
+    ]
+  },
+  {
+    "text": "A circus vet tracks animal genetics and plans safe waste handling.",
+    "labels": [
+      "Circus",
+      "Genetics",
+      "Waste Management"
+    ]
+  },
+  {
+    "text": "Motorcycle couriers deliver samples for a lab that models disease spread under international law.",
+    "labels": [
+      "Computational Biology",
+      "International Law",
+      "Motorcycling"
+    ]
+  },
+  {
+    "text": "A bank backs a haircare startup that sells to workers in petroleum engineering hubs.",
+    "labels": [
+      "Banking",
+      "Haircare",
+      "Petroleum Engineering"
+    ]
+  },
+  {
+    "text": "Archaeologists use chemical tests to date bricks in ancient bridges.",
+    "labels": [
+      "Archaeology",
+      "Chemistry",
+      "Civil Engineering"
+    ]
+  },
+  {
+    "text": "Ethical tourism can boost local economies and spark big questions about fair travel.",
+    "labels": [
+      "Economics",
+      "Philosophy",
+      "Tourism"
+    ]
+  },
+  {
+    "text": "A travel guide compares snake stories across cultures for eco tours.",
+    "labels": [
+      "Comparative Literature",
+      "Herpetology",
+      "Tourism"
+    ]
+  },
+  {
+    "text": "Underwater robots test new alloys while mapping the sea floor.",
+    "labels": [
+      "Materials Engineering",
+      "Oceanography",
+      "Robotics"
+    ]
+  },
+  {
+    "text": "A food truck owner uses odds to plan menus and cut waste.",
+    "labels": [
+      "Entrepreneurship",
+      "Gastronomy",
+      "Probability"
+    ]
+  },
+  {
+    "text": "Woodworkers stay fit while moving lumber and check for fungi that rot wood.",
+    "labels": [
+      "Fitness",
+      "Fungi",
+      "Woodworking"
+    ]
+  },
+  {
+    "text": "A game studio tracks costs and uses math to test player rewards.",
+    "labels": [
+      "Accounting",
+      "Game Studies",
+      "Mathematics"
+    ]
+  },
+  {
+    "text": "The festival shows animal designs on clay pots and a folk dance about wildlife.",
+    "labels": [
+      "Animals",
+      "Dance",
+      "Pottery"
+    ]
+  },
+  {
+    "text": "An oil rig uses control systems while engineers watch live television feeds.",
+    "labels": [
+      "Control Systems",
+      "Petroleum Engineering",
+      "Television"
+    ]
+  },
+  {
+    "text": "A photo essay shows fasting meals and explains their role in a faith.",
+    "labels": [
+      "Nutrition",
+      "Photography",
+      "Religious Studies"
+    ]
+  },
+  {
+    "text": "Bank fraud rings can be mapped with graph theory to aid criminal cases.",
+    "labels": [
+      "Banking",
+      "Criminal Law",
+      "Graph Theory"
+    ]
+  },
+  {
+    "text": "A study groups diets and styles into sets to link fashion and food choices.",
+    "labels": [
+      "Fashion",
+      "Nutrition",
+      "Set Theory"
+    ]
+  },
+  {
+    "text": "A museum show blends beauty, landform models, and lessons on how people grow.",
+    "labels": [
+      "Aesthetics",
+      "Geomorphology",
+      "Human Development"
+    ]
+  },
+  {
+    "text": "A news broadcast runs a puzzle about a trade deal to explain world politics.",
+    "labels": [
+      "Broadcasting",
+      "International Relations",
+      "Puzzles"
+    ]
+  },
+  {
+    "text": "A beekeeper co-op uses online tools and clear rules to run the group and train members.",
+    "labels": [
+      "Beekeeping",
+      "Corporate Governance",
+      "Educational Technology"
+    ]
+  },
+  {
+    "text": "A researcher uses algebra to model city growth and traffic with basic physics.",
+    "labels": [
+      "Algebra",
+      "Demography",
+      "Physics"
+    ]
+  },
+  {
+    "text": "A map book uses clear fonts to show tax rates by region.",
+    "labels": [
+      "Geography",
+      "Taxation",
+      "Typography"
+    ]
+  },
+  {
+    "text": "City leaders weigh ethics and local geography when planning public services.",
+    "labels": [
+      "Ethics",
+      "Geography",
+      "Public Administration"
+    ]
+  },
+  {
+    "text": "A church retreat center uses probability to plan room bookings.",
+    "labels": [
+      "Hospitality",
+      "Probability",
+      "Theology"
+    ]
+  },
+  {
+    "text": "A travel app teaches about world religions with short videos and maps.",
+    "labels": [
+      "Educational Technology",
+      "Religious Studies",
+      "Travel"
+    ]
+  },
+  {
+    "text": "The school leaders set policies that shape how teachers manage group work and staff culture.",
+    "labels": [
+      "Governance",
+      "Organizational Behavior",
+      "Pedagogy"
+    ]
+  },
+  {
+    "text": "In a story, a wizard designs triangle nets to help the fishery catch more fish.",
+    "labels": [
+      "Fisheries",
+      "Geometry",
+      "Magic"
+    ]
+  },
+  {
+    "text": "An art historian uses a basic differential equation to track mural value when pricing historic homes.",
+    "labels": [
+      "Art History",
+      "Differential Equations",
+      "Real Estate"
+    ]
+  },
+  {
+    "text": "Researchers use AI to compare fish species in temple carvings with real catches to study faith and biology.",
+    "labels": [
+      "Artificial Intelligence",
+      "Ichthyology",
+      "Religious Studies"
+    ]
+  },
+  {
+    "text": "Teachers use climate data to lead moral talks about caring for the planet.",
+    "labels": [
+      "Climatology",
+      "Morality",
+      "Pedagogy"
+    ]
+  },
+  {
+    "text": "Before surgery, patients solve prime number puzzles to reduce anxiety in a study.",
+    "labels": [
+      "Number Theory",
+      "Psychology",
+      "Surgery"
+    ]
+  },
+  {
+    "text": "Preschoolers count how many seeds sprout and make a simple chart.",
+    "labels": [
+      "Early Childhood",
+      "Plants",
+      "Statistics"
+    ]
+  },
+  {
+    "text": "Engineers map old flood myths and river data to plan safe drilling sites.",
+    "labels": [
+      "Hydrology",
+      "Mythology",
+      "Petroleum Engineering"
+    ]
+  },
+  {
+    "text": "A museum creates clear nutrition charts to explain food in old paintings.",
+    "labels": [
+      "Art History",
+      "Dietetics",
+      "Information Design"
+    ]
+  },
+  {
+    "text": "A film class reviews how makeup and surgery scenes show anesthesia on screen.",
+    "labels": [
+      "Anesthesiology",
+      "Cosmetics",
+      "Film Studies"
+    ]
+  },
+  {
+    "text": "A clinic uses geometric models to budget space for maternity care rooms.",
+    "labels": [
+      "Accounting",
+      "Geometry",
+      "Obstetrics"
+    ]
+  },
+  {
+    "text": "A physicist studies how coolant flows in a reactor using fluid dynamics.",
+    "labels": [
+      "Fluid Dynamics",
+      "Nuclear Physics",
+      "Physics"
+    ]
+  },
+  {
+    "text": "Teachers discuss the ethics of gene editing in a class debate.",
+    "labels": [
+      "Bioethics",
+      "Genetics",
+      "Pedagogy"
+    ]
+  },
+  {
+    "text": "Students use algebra to plan a garden that supports local wildlife.",
+    "labels": [
+      "Algebra",
+      "Ecology",
+      "Landscaping"
+    ]
+  },
+  {
+    "text": "HR trains staff with a garden themed game about phishing and strong passwords.",
+    "labels": [
+      "Cybersecurity",
+      "Gardening",
+      "Human Resources"
+    ]
+  },
+  {
+    "text": "A bank ad uses 3D terrain maps to explain loans for erosion control.",
+    "labels": [
+      "Banking",
+      "Computer Graphics",
+      "Geomorphology"
+    ]
+  },
+  {
+    "text": "Scholars use a cloud network to share glacier data and stories of sacred ice.",
+    "labels": [
+      "Distributed Systems",
+      "Glaciology",
+      "Religious Studies"
+    ]
+  },
+  {
+    "text": "Engineers and gardeners choose tree species whose roots will not damage a bridge.",
+    "labels": [
+      "Botany",
+      "Gardening",
+      "Structural Engineering"
+    ]
+  },
+  {
+    "text": "A science show uses custom software to stream live microscope views of bacteria.",
+    "labels": [
+      "Broadcasting",
+      "Microbiology",
+      "Software Engineering"
+    ]
+  },
+  {
+    "text": "Preschoolers learn shapes with a teacher showing clear x ray images of bones.",
+    "labels": [
+      "Early Childhood",
+      "Geometry",
+      "Radiology"
+    ]
+  },
+  {
+    "text": "A cartoon app lets users try makeup looks with easy controls.",
+    "labels": [
+      "Beauty",
+      "Cartoons",
+      "User Experience"
+    ]
+  },
+  {
+    "text": "An anthropologist notes how civil rights groups defend local ecosystems.",
+    "labels": [
+      "Anthropology",
+      "Civil Rights",
+      "Ecology"
+    ]
+  },
+  {
+    "text": "Laws guide how bioengineers test brain implants for patients.",
+    "labels": [
+      "Biomedical Engineering",
+      "Law",
+      "Neurology"
+    ]
+  },
+  {
+    "text": "A legal map database tracks land borders and property cases.",
+    "labels": [
+      "Databases",
+      "Geography",
+      "Law"
+    ]
+  },
+  {
+    "text": "A cartoon shows how room layout and airflow affect heat at home.",
+    "labels": [
+      "Cartoons",
+      "Interior Design",
+      "Thermodynamics"
+    ]
+  },
+  {
+    "text": "Hunters craft simple field kits to help track disease in deer.",
+    "labels": [
+      "Crafting",
+      "Epidemiology",
+      "Hunting"
+    ]
+  },
+  {
+    "text": "A gardener who hunts crafts trellises and sturdy blinds from pruned wood.",
+    "labels": [
+      "Crafting",
+      "Horticulture",
+      "Hunting"
+    ]
+  },
+  {
+    "text": "Scientists test quantum sensors from oil rigs to find fish underwater.",
+    "labels": [
+      "Fishing",
+      "Petroleum Engineering",
+      "Quantum Mechanics"
+    ]
+  },
+  {
+    "text": "A park PR team shares safe hiking tips for finding mushrooms.",
+    "labels": [
+      "Hiking",
+      "Mycology",
+      "Public Relations"
+    ]
+  },
+  {
+    "text": "Engineers use calculus to predict how fabric drapes in new clothes.",
+    "labels": [
+      "Calculus",
+      "Engineering",
+      "Fashion"
+    ]
+  },
+  {
+    "text": "Students code a tool that tags photos of campaign events for research.",
+    "labels": [
+      "Photography",
+      "Political Science",
+      "Programming"
+    ]
+  },
+  {
+    "text": "A startup sells coffee themed jewelry with secure chips for payments.",
+    "labels": [
+      "Coffee",
+      "Cybersecurity",
+      "Jewelry"
+    ]
+  },
+  {
+    "text": "Designers use language research to build tools that support child growth.",
+    "labels": [
+      "Human Development",
+      "Interaction Design",
+      "Linguistics"
+    ]
+  },
+  {
+    "text": "A park manager hires architects to design safe trail centers.",
+    "labels": [
+      "Architecture",
+      "Hiking",
+      "Management"
+    ]
+  },
+  {
+    "text": "Marketers use number theory codes to track plant traits in ads.",
+    "labels": [
+      "Botany",
+      "Marketing",
+      "Number Theory"
+    ]
+  },
+  {
+    "text": "A small business uses media studies to improve its social media posts.",
+    "labels": [
+      "Business",
+      "Media Studies",
+      "Social Media"
+    ]
+  },
+  {
+    "text": "Designers make clear lab signs about microbes that follow ethics rules.",
+    "labels": [
+      "Ethics",
+      "Graphic Design",
+      "Microbiology"
+    ]
+  },
+  {
+    "text": "Scientists map coffee regions and study the proteins in the beans.",
+    "labels": [
+      "Coffee",
+      "Geography",
+      "Proteomics"
+    ]
+  },
+  {
+    "text": "A sailboat autopilot uses control loops and radio links to steer.",
+    "labels": [
+      "Control Systems",
+      "Sailing",
+      "Telecommunications"
+    ]
+  },
+  {
+    "text": "A fitness study stores genome and workout data in a secure database.",
+    "labels": [
+      "Databases",
+      "Fitness",
+      "Genomics"
+    ]
+  },
+  {
+    "text": "An astrophysics team manages the risk of toxic propellants used on a satellite test.",
+    "labels": [
+      "Astrophysics",
+      "Risk Management",
+      "Toxicology"
+    ]
+  },
+  {
+    "text": "Nations use diplomacy to plan a hospital that shares health data and meets strong building codes.",
+    "labels": [
+      "Diplomacy",
+      "Medical Informatics",
+      "Structural Engineering"
+    ]
+  },
+  {
+    "text": "A crafter sews makeup bags and donates profits to ocean research.",
+    "labels": [
+      "Cosmetics",
+      "Oceanography",
+      "Sewing"
+    ]
+  },
+  {
+    "text": "A game teaches how microscopes use lenses to view bacteria.",
+    "labels": [
+      "Gaming",
+      "Microbiology",
+      "Optics"
+    ]
+  },
+  {
+    "text": "Researchers use algorithms to model river slopes and track how haircare chemicals move in runoff.",
+    "labels": [
+      "Algorithms",
+      "Geomorphology",
+      "Haircare"
+    ]
+  },
+  {
+    "text": "Coaches use math models and probability to plan fitness routines that hit goals.",
+    "labels": [
+      "Fitness",
+      "Mathematical Modeling",
+      "Probability"
+    ]
+  },
+  {
+    "text": "A manager uses accounting reports and graph theory to map and control project costs.",
+    "labels": [
+      "Accounting",
+      "Graph Theory",
+      "Management"
+    ]
+  },
+  {
+    "text": "On a camping trip, we cook fish and learn how to identify their species.",
+    "labels": [
+      "Camping",
+      "Culinary Arts",
+      "Ichthyology"
+    ]
+  },
+  {
+    "text": "A shop tests a metal filter for coffee and uses probability to predict taste scores.",
+    "labels": [
+      "Coffee",
+      "Metalworking",
+      "Probability"
+    ]
+  },
+  {
+    "text": "A film explores gym culture and how workouts shape identity.",
+    "labels": [
+      "Cinema",
+      "Cultural Studies",
+      "Fitness"
+    ]
+  },
+  {
+    "text": "Engineers and landscapers design a park while studying how neighbors use the space.",
+    "labels": [
+      "Engineering",
+      "Landscaping",
+      "Sociology"
+    ]
+  },
+  {
+    "text": "An engineer builds a finance app that uses clear typography for reports.",
+    "labels": [
+      "Engineering",
+      "Finance",
+      "Typography"
+    ]
+  },
+  {
+    "text": "A clinic uses cryptography to protect gynecology records and beauty care newsletters.",
+    "labels": [
+      "Beauty",
+      "Cryptography",
+      "Gynecology"
+    ]
+  },
+  {
+    "text": "A new community center has safe structures, a teaching kitchen, and family support programs.",
+    "labels": [
+      "Civil Engineering",
+      "Culinary Arts",
+      "Family Studies"
+    ]
+  },
+  {
+    "text": "A lab team studies sensors from nuclear physics for fish farms and improves how workers coordinate.",
+    "labels": [
+      "Aquaculture",
+      "Nuclear Physics",
+      "Organizational Behavior"
+    ]
+  },
+  {
+    "text": "A model uses calculus to study gene changes in growing bacteria.",
+    "labels": [
+      "Calculus",
+      "Genomics",
+      "Microbiology"
+    ]
+  },
+  {
+    "text": "An archaeology lab recycles dig waste and uses thermodynamics to control storage heat.",
+    "labels": [
+      "Archaeology",
+      "Recycling",
+      "Thermodynamics"
+    ]
+  },
+  {
+    "text": "Investigators use acoustic sensors to track theft in a warehouse supply chain.",
+    "labels": [
+      "Acoustics",
+      "Criminology",
+      "Supply Chain"
+    ]
+  },
+  {
+    "text": "Designers build a sailing app that helps report civil rights issues at marinas.",
+    "labels": [
+      "Civil Rights",
+      "Interaction Design",
+      "Sailing"
+    ]
+  },
+  {
+    "text": "Countries use diplomacy to fund a bridge project that models river flow with fluid dynamics.",
+    "labels": [
+      "Civil Engineering",
+      "Diplomacy",
+      "Fluid Dynamics"
+    ]
+  },
+  {
+    "text": "Railway clinics use radiology to help injured travelers.",
+    "labels": [
+      "Radiology",
+      "Railways",
+      "Travel"
+    ]
+  },
+  {
+    "text": "Using logic, an interior designer picks eco materials for conservation.",
+    "labels": [
+      "Conservation",
+      "Interior Design",
+      "Logic"
+    ]
+  },
+  {
+    "text": "A garden shop uses short poems in ads to sell seeds.",
+    "labels": [
+      "Gardening",
+      "Marketing",
+      "Poetry"
+    ]
+  },
+  {
+    "text": "Analysts use mathematical modeling to plan operating system loads for taxation software.",
+    "labels": [
+      "Mathematical Modeling",
+      "Operating Systems",
+      "Taxation"
+    ]
+  },
+  {
+    "text": "A food and fashion festival checks the weather forecast.",
+    "labels": [
+      "Fashion",
+      "Gastronomy",
+      "Meteorology"
+    ]
+  },
+  {
+    "text": "A skincare ad uses graphic design with a city map on the label.",
+    "labels": [
+      "Cartography",
+      "Graphic Design",
+      "Skincare"
+    ]
+  },
+  {
+    "text": "A movie shows how nuclear engineers protect wildlife near plants.",
+    "labels": [
+      "Cinema",
+      "Conservation",
+      "Nuclear Engineering"
+    ]
+  },
+  {
+    "text": "Software engineers catalog metalworking used in religious art.",
+    "labels": [
+      "Metalworking",
+      "Religion",
+      "Software Engineering"
+    ]
+  },
+  {
+    "text": "A workshop mixes cooking demos on fluid dynamics and a lesson on relativity.",
+    "labels": [
+      "Culinary Arts",
+      "Fluid Dynamics",
+      "Relativity"
+    ]
+  },
+  {
+    "text": "A winery runs ads inside a new game it helped design.",
+    "labels": [
+      "Advertising",
+      "Game Design",
+      "Wine"
+    ]
+  },
+  {
+    "text": "A seminar asks how combinatorics can guide fair accounting and ethics.",
+    "labels": [
+      "Accounting",
+      "Combinatorics",
+      "Philosophy"
+    ]
+  },
+  {
+    "text": "Statisticians track microchip failures in a cloud computing farm.",
+    "labels": [
+      "Cloud Computing",
+      "Microelectronics",
+      "Statistics"
+    ]
+  },
+  {
+    "text": "A mountaineering fund follows international law when making investments.",
+    "labels": [
+      "International Law",
+      "Investments",
+      "Mountaineering"
+    ]
+  },
+  {
+    "text": "A theater play explores how drug prices shape the economy.",
+    "labels": [
+      "Economics",
+      "Pharmacy",
+      "Theater"
+    ]
+  },
+  {
+    "text": "Beekeepers model dance signals with math to study communication.",
+    "labels": [
+      "Beekeeping",
+      "Communication",
+      "Mathematics"
+    ]
+  },
+  {
+    "text": "Students use classic texts to study logic and morality.",
+    "labels": [
+      "Classics",
+      "Logic",
+      "Morality"
+    ]
+  },
+  {
+    "text": "A news show covers how water shortages affect tourism.",
+    "labels": [
+      "Broadcasting",
+      "Tourism",
+      "Water Resources"
+    ]
+  },
+  {
+    "text": "A lecture links art history with hall acoustics and lighting from electromagnetism.",
+    "labels": [
+      "Acoustics",
+      "Art History",
+      "Electromagnetism"
+    ]
+  },
+  {
+    "text": "A study tracks star party turnout by age and mental health trends.",
+    "labels": [
+      "Astronomy",
+      "Demography",
+      "Psychiatry"
+    ]
+  },
+  {
+    "text": "The lab and the wood shop share risk management for proteomics tools and saws.",
+    "labels": [
+      "Proteomics",
+      "Risk Management",
+      "Woodworking"
+    ]
+  },
+  {
+    "text": "A motorcyclist parks by a gardening club and learns how petroleum engineers design fuels for tools.",
+    "labels": [
+      "Gardening",
+      "Motorcycling",
+      "Petroleum Engineering"
+    ]
+  },
+  {
+    "text": "A class debates how language shapes what we know about sustainability.",
+    "labels": [
+      "Epistemology",
+      "Linguistics",
+      "Sustainability"
+    ]
+  },
+  {
+    "text": "An online store uses geometry and optimization to pack and ship boxes cheaply.",
+    "labels": [
+      "Ecommerce",
+      "Geometry",
+      "Optimization"
+    ]
+  },
+  {
+    "text": "A news story uses cartoons to explain why biodiversity loss matters.",
+    "labels": [
+      "Biodiversity",
+      "Cartoons",
+      "Journalism"
+    ]
+  },
+  {
+    "text": "A clinic sells coffee and handmade jewelry to raise funds for gynecology care.",
+    "labels": [
+      "Coffee",
+      "Gynecology",
+      "Jewelry"
+    ]
+  },
+  {
+    "text": "A sailing team uses a distributed system to watch mast loads and guide structural design.",
+    "labels": [
+      "Distributed Systems",
+      "Sailing",
+      "Structural Engineering"
+    ]
+  },
+  {
+    "text": "On a park trip, kids take photos while learning how genomics helps protect wildlife.",
+    "labels": [
+      "Genomics",
+      "Photography",
+      "Recreation"
+    ]
+  },
+  {
+    "text": "A web developer builds a site for a dance school with tips on avoiding toxic stage materials.",
+    "labels": [
+      "Dance",
+      "Toxicology",
+      "Web Development"
+    ]
+  },
+  {
+    "text": "A teacher designs a geography curriculum with clear maps and readable typography.",
+    "labels": [
+      "Curriculum",
+      "Geography",
+      "Typography"
+    ]
+  },
+  {
+    "text": "A publisher studies team behavior while editing a book on biomedical engineering.",
+    "labels": [
+      "Biomedical Engineering",
+      "Organizational Behavior",
+      "Publishing"
+    ]
+  },
+  {
+    "text": "A drone for plant surveys uses an aerospace design and a real time operating system.",
+    "labels": [
+      "Aerospace Engineering",
+      "Operating Systems",
+      "Plants"
+    ]
+  },
+  {
+    "text": "Students compare chemical data and galaxy maps using statistics to find patterns.",
+    "labels": [
+      "Chemistry",
+      "Cosmology",
+      "Statistics"
+    ]
+  },
+  {
+    "text": "A robotics class blends computer science, control systems, and mechanical engineering to build a rover.",
+    "labels": [
+      "Computer Science",
+      "Control Systems",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "text": "A school plans a curriculum that uses brain science to improve teaching methods.",
+    "labels": [
+      "Curriculum",
+      "Neurology",
+      "Pedagogy"
+    ]
+  },
+  {
+    "text": "A museum show links circus art history to robots that move like acrobats.",
+    "labels": [
+      "Art History",
+      "Circus",
+      "Robotics"
+    ]
+  },
+  {
+    "text": "A city sets education rules that use quality management to improve schools.",
+    "labels": [
+      "Education",
+      "Public Policy",
+      "Quality Management"
+    ]
+  },
+  {
+    "text": "Engineers use machine learning and photonic sensors to monitor a nuclear reactor.",
+    "labels": [
+      "Machine Learning",
+      "Nuclear Engineering",
+      "Photonics"
+    ]
+  },
+  {
+    "text": "A lawsuit tests a noise law under the constitution while scientists study insect sounds.",
+    "labels": [
+      "Acoustics",
+      "Constitutional Law",
+      "Entomology"
+    ]
+  },
+  {
+    "text": "A science camp teaches communication skills while linking growth milestones to basic physics.",
+    "labels": [
+      "Communication",
+      "Human Development",
+      "Physics"
+    ]
+  },
+  {
+    "text": "An online store sells books on mechanical engineering from independent publishers.",
+    "labels": [
+      "Ecommerce",
+      "Mechanical Engineering",
+      "Publishing"
+    ]
+  },
+  {
+    "text": "A cancer charity esports tournament recycled old gaming gear.",
+    "labels": [
+      "Esports",
+      "Oncology",
+      "Recycling"
+    ]
+  },
+  {
+    "text": "At a classics club, a dietitian talked about coffee and healthy limits.",
+    "labels": [
+      "Classics",
+      "Coffee",
+      "Dietetics"
+    ]
+  },
+  {
+    "text": "Fisheries raised a tax to fund labs that study fish diseases.",
+    "labels": [
+      "Fisheries",
+      "Pathology",
+      "Taxation"
+    ]
+  },
+  {
+    "text": "A biomedical engineer used chemical reactions in sensors and an operating system to track vitals.",
+    "labels": [
+      "Biomedical Engineering",
+      "Chemistry",
+      "Operating Systems"
+    ]
+  },
+  {
+    "text": "A bank funded a garden project that used hydrology data to save water.",
+    "labels": [
+      "Banking",
+      "Horticulture",
+      "Hydrology"
+    ]
+  },
+  {
+    "text": "Voters debated a fashion ad that raised moral questions during the election.",
+    "labels": [
+      "Elections",
+      "Fashion",
+      "Morality"
+    ]
+  },
+  {
+    "text": "I wrote a story about how water flows through a garden bed.",
+    "labels": [
+      "Creative Writing",
+      "Fluid Dynamics",
+      "Gardening"
+    ]
+  },
+  {
+    "text": "A database stores volcano research with clear intellectual property rights.",
+    "labels": [
+      "Databases",
+      "Intellectual Property",
+      "Volcanology"
+    ]
+  },
+  {
+    "text": "In physical therapy, we used physics to plan poses for a visual arts class.",
+    "labels": [
+      "Physical Therapy",
+      "Physics",
+      "Visual Arts"
+    ]
+  },
+  {
+    "text": "Oil field engineers studied local insects at night using GPS time based on relativity.",
+    "labels": [
+      "Entomology",
+      "Petroleum Engineering",
+      "Relativity"
+    ]
+  },
+  {
+    "text": "Nurses followed cybersecurity rules to protect heart monitor data.",
+    "labels": [
+      "Cardiology",
+      "Cybersecurity",
+      "Nursing"
+    ]
+  },
+  {
+    "text": "The council set rules for metalworkers and told myths about the forge.",
+    "labels": [
+      "Governance",
+      "Metalworking",
+      "Mythology"
+    ]
+  },
+  {
+    "text": "A church choir sang about storms while a forecaster explained the weather.",
+    "labels": [
+      "Meteorology",
+      "Music",
+      "Religion"
+    ]
+  },
+  {
+    "text": "A school fair linked recycling and wildlife conservation with a demo on relativity.",
+    "labels": [
+      "Conservation",
+      "Recycling",
+      "Relativity"
+    ]
+  },
+  {
+    "text": "The prison offered occupational therapy with music under strict criminal law rules.",
+    "labels": [
+      "Criminal Law",
+      "Music",
+      "Occupational Therapy"
+    ]
+  },
+  {
+    "text": "A fault line map ran on a distributed system so all people had equal access, supporting civil rights.",
+    "labels": [
+      "Civil Rights",
+      "Distributed Systems",
+      "Geology"
+    ]
+  },
+  {
+    "text": "City staff ran a baking contest and posted updates on social media.",
+    "labels": [
+      "Baking",
+      "Public Administration",
+      "Social Media"
+    ]
+  },
+  {
+    "text": "A priest blessed a field study where vets and geologists worked by a sinkhole.",
+    "labels": [
+      "Geology",
+      "Theology",
+      "Veterinary Medicine"
+    ]
+  },
+  {
+    "text": "Kids solved robot puzzles that taught lessons about local biodiversity.",
+    "labels": [
+      "Biodiversity",
+      "Puzzles",
+      "Robotics"
+    ]
+  },
+  {
+    "text": "A fishing app used a distributed system to send real-time marketing offers.",
+    "labels": [
+      "Distributed Systems",
+      "Fishing",
+      "Marketing"
+    ]
+  },
+  {
+    "text": "Tour guides use clear communication to explain how heat waves affect travel plans.",
+    "labels": [
+      "Communication",
+      "Thermodynamics",
+      "Tourism"
+    ]
+  },
+  {
+    "text": "Engineers use computer vision powered by differential equations to control robots.",
+    "labels": [
+      "Computer Vision",
+      "Differential Equations",
+      "Engineering"
+    ]
+  },
+  {
+    "text": "City officials fund studies in materials science to build roads that withstand climate trends.",
+    "labels": [
+      "Climatology",
+      "Materials Science",
+      "Public Administration"
+    ]
+  },
+  {
+    "text": "Analysts use statistics to study how map borders shape voting behavior.",
+    "labels": [
+      "Cartography",
+      "Political Science",
+      "Statistics"
+    ]
+  },
+  {
+    "text": "City planners work with botanists to plant trees that improve streets and community life.",
+    "labels": [
+      "Botany",
+      "Civil Engineering",
+      "Sociology"
+    ]
+  },
+  {
+    "text": "A comic shows gamers training like athletes for a big esports tournament.",
+    "labels": [
+      "Comics",
+      "Esports",
+      "Sports"
+    ]
+  },
+  {
+    "text": "A university course links bioinformatics data analysis with ideas from quantum mechanics.",
+    "labels": [
+      "Bioinformatics",
+      "Higher Education",
+      "Quantum Mechanics"
+    ]
+  },
+  {
+    "text": "An engineer uses algebra to tune circuits that power a virtual reality headset.",
+    "labels": [
+      "Algebra",
+      "Electrical Engineering",
+      "Virtual Reality"
+    ]
+  },
+  {
+    "text": "Engineers plan a hospital on stable rock to keep the obstetrics ward safe.",
+    "labels": [
+      "Geology",
+      "Obstetrics",
+      "Structural Engineering"
+    ]
+  },
+  {
+    "text": "A landscaping robot uses ecology rules to protect native plants while trimming.",
+    "labels": [
+      "Ecology",
+      "Landscaping",
+      "Robotics"
+    ]
+  },
+  {
+    "text": "A college program mixes art history with environmental engineering in a joint degree.",
+    "labels": [
+      "Art History",
+      "Environmental Engineering",
+      "Higher Education"
+    ]
+  },
+  {
+    "text": "A circus show explains knots and heat flow with simple props.",
+    "labels": [
+      "Circus",
+      "Thermodynamics",
+      "Topology"
+    ]
+  },
+  {
+    "text": "Researchers use mathematical models to test how radiation from reactors may affect evolution.",
+    "labels": [
+      "Evolution",
+      "Mathematical Modeling",
+      "Nuclear Physics"
+    ]
+  },
+  {
+    "text": "Hospital managers follow constitutional law when handling patient data in medical informatics.",
+    "labels": [
+      "Constitutional Law",
+      "Management",
+      "Medical Informatics"
+    ]
+  },
+  {
+    "text": "A tech manager trains coders on software licenses to protect intellectual property.",
+    "labels": [
+      "Intellectual Property",
+      "Management",
+      "Software Engineering"
+    ]
+  },
+  {
+    "text": "A trade deal sets rules for wine labels and supports visas for occupational therapists.",
+    "labels": [
+      "International Relations",
+      "Occupational Therapy",
+      "Wine"
+    ]
+  },
+  {
+    "text": "Researchers compare family talk patterns to workplace teams to study group behavior.",
+    "labels": [
+      "Family Studies",
+      "Linguistics",
+      "Organizational Behavior"
+    ]
+  },
+  {
+    "text": "A bank funds a mechatronics lab building instruments for astrophysics research.",
+    "labels": [
+      "Astrophysics",
+      "Banking",
+      "Mechatronics"
+    ]
+  },
+  {
+    "text": "A study of church cafes looks at wifi security while serving fair trade coffee.",
+    "labels": [
+      "Coffee",
+      "Cybersecurity",
+      "Religious Studies"
+    ]
+  },
+  {
+    "text": "A lab uses IT tools to model fish health for a chemical engineering water treatment project.",
+    "labels": [
+      "Chemical Engineering",
+      "Ichthyology",
+      "Information Technology"
+    ]
+  },
+  {
+    "text": "Food labels use clear fonts and must respect trademark rules.",
+    "labels": [
+      "Intellectual Property",
+      "Nutrition",
+      "Typography"
+    ]
+  },
+  {
+    "text": "Software engineers optimize the graphic design pipeline to load images faster.",
+    "labels": [
+      "Graphic Design",
+      "Optimization",
+      "Software Engineering"
+    ]
+  },
+  {
+    "text": "Detectives use database records to share crime leads with clear communication.",
+    "labels": [
+      "Communication",
+      "Criminology",
+      "Databases"
+    ]
+  },
+  {
+    "text": "An astrophysics team on a space station studies water recycling to support safe surgery in space.",
+    "labels": [
+      "Astrophysics",
+      "Surgery",
+      "Water Resources"
+    ]
+  },
+  {
+    "text": "Scientists use encrypted data from optical sensors to map rock layers.",
+    "labels": [
+      "Cryptography",
+      "Geology",
+      "Optics"
+    ]
+  },
+  {
+    "text": "Tourists at a city festival enjoy music and learn about local genomics labs.",
+    "labels": [
+      "Genomics",
+      "Music",
+      "Tourism"
+    ]
+  },
+  {
+    "text": "An automotive engineer writes a poem about a car named for a Greek myth.",
+    "labels": [
+      "Automotive Engineering",
+      "Classics",
+      "Poetry"
+    ]
+  },
+  {
+    "text": "In surgery, an anesthesiologist keeps the patient asleep while the team sews the incision.",
+    "labels": [
+      "Anesthesiology",
+      "Sewing",
+      "Surgery"
+    ]
+  },
+  {
+    "text": "Engineers design a dam that meets green standards and follows global water treaties.",
+    "labels": [
+      "Environmental Engineering",
+      "International Law",
+      "Structural Engineering"
+    ]
+  },
+  {
+    "text": "A training app for social workers uses puzzles to teach case skills.",
+    "labels": [
+      "Educational Technology",
+      "Puzzles",
+      "Social Work"
+    ]
+  },
+  {
+    "text": "Web developers use clear layouts and strong security to guide users safely.",
+    "labels": [
+      "Cybersecurity",
+      "Information Design",
+      "Web Development"
+    ]
+  },
+  {
+    "text": "A skincare ad uses a Roman goddess theme to sell acne cream.",
+    "labels": [
+      "Advertising",
+      "Classics",
+      "Dermatology"
+    ]
+  },
+  {
+    "text": "An app turns habitat puzzles into a game that teaches how ecosystems work.",
+    "labels": [
+      "Ecology",
+      "Information Technology",
+      "Puzzles"
+    ]
+  },
+  {
+    "text": "Systems engineers build a tool to catalog plant species in famous paintings.",
+    "labels": [
+      "Art History",
+      "Botany",
+      "Systems Engineering"
+    ]
+  },
+  {
+    "text": "Visitors enjoy a weekend trip with hikes and tours of local temples.",
+    "labels": [
+      "Recreation",
+      "Religion",
+      "Tourism"
+    ]
+  },
+  {
+    "text": "Students analyze food ads and estimate the chance they mislead about health.",
+    "labels": [
+      "Media Studies",
+      "Nutrition",
+      "Probability"
+    ]
+  },
+  {
+    "text": "HR trains staff on school policies that protect civil rights.",
+    "labels": [
+      "Civil Rights",
+      "Education",
+      "Human Resources"
+    ]
+  },
+  {
+    "text": "Diplomats debate the ethics of new treaties under international law.",
+    "labels": [
+      "Ethics",
+      "International Law",
+      "International Relations"
+    ]
+  },
+  {
+    "text": "Airlines use VR simulators to train pilots and improve quality checks.",
+    "labels": [
+      "Aviation",
+      "Quality Management",
+      "Virtual Reality"
+    ]
+  },
+  {
+    "text": "Camp managers use plant IDs to choose safe campsites.",
+    "labels": [
+      "Botany",
+      "Camping",
+      "Management"
+    ]
+  },
+  {
+    "text": "The ad team used storm map graphics in posters to sell rain jackets.",
+    "labels": [
+      "Marketing",
+      "Meteorology",
+      "Visual Arts"
+    ]
+  },
+  {
+    "text": "A social worker reviewed housing policy using physics of heat loss to keep families warm.",
+    "labels": [
+      "Physics",
+      "Policy Analysis",
+      "Social Work"
+    ]
+  },
+  {
+    "text": "At camp, we read stories about coping with fear and talked about mental health.",
+    "labels": [
+      "Camping",
+      "Literature",
+      "Psychiatry"
+    ]
+  },
+  {
+    "text": "An art show mapped supply chains to expose labor abuses and demand civil rights.",
+    "labels": [
+      "Civil Rights",
+      "Supply Chain",
+      "Visual Arts"
+    ]
+  },
+  {
+    "text": "An app taught word roots while showing how soil terms describe layers.",
+    "labels": [
+      "Educational Technology",
+      "Linguistics",
+      "Soil Science"
+    ]
+  },
+  {
+    "text": "A reporter covered how makeup trends echo styles seen in art history.",
+    "labels": [
+      "Art History",
+      "Cosmetics",
+      "Journalism"
+    ]
+  },
+  {
+    "text": "Scientists studied insect wing shapes and tested how toxins change their flight.",
+    "labels": [
+      "Entomology",
+      "Geometry",
+      "Toxicology"
+    ]
+  },
+  {
+    "text": "A robot helped a heart doctor give a talk at a winery about health and tech.",
+    "labels": [
+      "Cardiology",
+      "Robotics",
+      "Wine"
+    ]
+  },
+  {
+    "text": "A drug company board set water use rules after a hydrology report.",
+    "labels": [
+      "Corporate Governance",
+      "Hydrology",
+      "Pharmacy"
+    ]
+  },
+  {
+    "text": "A play about a magician asked how we know what is real.",
+    "labels": [
+      "Epistemology",
+      "Magic",
+      "Theater"
+    ]
+  },
+  {
+    "text": "Students used augmented reality and data to optimize how news stories grab attention.",
+    "labels": [
+      "Augmented Reality",
+      "Media Studies",
+      "Optimization"
+    ]
+  },
+  {
+    "text": "A class compared hospital scan interfaces to movie scenes to improve user flow.",
+    "labels": [
+      "Film Studies",
+      "Interaction Design",
+      "Radiology"
+    ]
+  },
+  {
+    "text": "We coded a model to predict song beats and tested it in a music app.",
+    "labels": [
+      "Mathematical Modeling",
+      "Music",
+      "Programming"
+    ]
+  },
+  {
+    "text": "The team tracked dance show videos to improve production quality.",
+    "labels": [
+      "Dance",
+      "Media Studies",
+      "Quality Management"
+    ]
+  },
+  {
+    "text": "Leaders used culture studies to guide worker safety on an oil rig.",
+    "labels": [
+      "Anthropology",
+      "Management",
+      "Petroleum Engineering"
+    ]
+  },
+  {
+    "text": "A reporter used game theory to explain rival art movements in history.",
+    "labels": [
+      "Art History",
+      "Game Theory",
+      "Journalism"
+    ]
+  },
+  {
+    "text": "A city wrote fair policing rules and green goals into the same rights plan.",
+    "labels": [
+      "Civil Rights",
+      "Criminal Law",
+      "Sustainability"
+    ]
+  },
+  {
+    "text": "On a hike, we saw rock layers shaped by ancient rivers that moved dinosaur bones.",
+    "labels": [
+      "Fluid Dynamics",
+      "Hiking",
+      "Paleontology"
+    ]
+  },
+  {
+    "text": "Engineers built a safe fetal monitor with input from gynecology and obstetrics.",
+    "labels": [
+      "Electrical Engineering",
+      "Gynecology",
+      "Obstetrics"
+    ]
+  },
+  {
+    "text": "A manager compared team change to how rocks and species adapt over time.",
+    "labels": [
+      "Evolution",
+      "Geology",
+      "Organizational Behavior"
+    ]
+  },
+  {
+    "text": "A hospital website runs on a secure operating system and helps patients book care online.",
+    "labels": [
+      "Medicine",
+      "Operating Systems",
+      "Web Development"
+    ]
+  },
+  {
+    "text": "Researchers model how robes move in water during a baptism to guide safe clothing design.",
+    "labels": [
+      "Fashion",
+      "Fluid Dynamics",
+      "Religious Studies"
+    ]
+  },
+  {
+    "text": "A school club studies stars at night and germs in the lab.",
+    "labels": [
+      "Astronomy",
+      "Education",
+      "Microbiology"
+    ]
+  },
+  {
+    "text": "A poster at the train station urges kind behavior with clear images.",
+    "labels": [
+      "Morality",
+      "Railways",
+      "Visual Arts"
+    ]
+  },
+  {
+    "text": "A lab manager sets rules so chemical engineers develop new drugs in an ethical way.",
+    "labels": [
+      "Bioethics",
+      "Chemical Engineering",
+      "Management"
+    ]
+  },
+  {
+    "text": "Engineers use math to predict how sea salt spray will rust car parts.",
+    "labels": [
+      "Automotive Engineering",
+      "Mathematics",
+      "Oceanography"
+    ]
+  },
+  {
+    "text": "Engineers plan a nuclear plant that is safe, efficient, and pleasing to the eye.",
+    "labels": [
+      "Aesthetics",
+      "Mechanical Engineering",
+      "Nuclear Engineering"
+    ]
+  },
+  {
+    "text": "A zoo map uses simple shapes and icons to show where each animal lives.",
+    "labels": [
+      "Animals",
+      "Geometry",
+      "Information Design"
+    ]
+  },
+  {
+    "text": "An international grant funds plant research that helps design new medical sensors.",
+    "labels": [
+      "Biomedical Engineering",
+      "Horticulture",
+      "International Relations"
+    ]
+  },
+  {
+    "text": "A class debates the ethics of using robots in past wars.",
+    "labels": [
+      "History",
+      "Mechatronics",
+      "Morality"
+    ]
+  },
+  {
+    "text": "A novel tells of a stargazer who studies fossils to learn Earths past.",
+    "labels": [
+      "Astronomy",
+      "Literature",
+      "Paleontology"
+    ]
+  },
+  {
+    "text": "A report blends stories with data to explain trends in global court cases.",
+    "labels": [
+      "Creative Writing",
+      "International Law",
+      "Statistics"
+    ]
+  },
+  {
+    "text": "A game stream shows smooth water physics while clear fonts display the score.",
+    "labels": [
+      "Esports",
+      "Fluid Dynamics",
+      "Typography"
+    ]
+  },
+  {
+    "text": "A civic game uses math models to show how votes change results.",
+    "labels": [
+      "Elections",
+      "Game Design",
+      "Mathematical Modeling"
+    ]
+  },
+  {
+    "text": "A travel novel imagines a near light speed trip that bends time.",
+    "labels": [
+      "Literature",
+      "Relativity",
+      "Travel"
+    ]
+  },
+  {
+    "text": "At preschool, a nurse reads a simple story about germs and how time in space runs slow.",
+    "labels": [
+      "Early Childhood",
+      "Medicine",
+      "Relativity"
+    ]
+  },
+  {
+    "text": "We craft a small drum and solve rhythm puzzles together.",
+    "labels": [
+      "Crafting",
+      "Music",
+      "Puzzles"
+    ]
+  },
+  {
+    "text": "A food site uses network data to map how different ages eat in each city.",
+    "labels": [
+      "Computer Networks",
+      "Demography",
+      "Gastronomy"
+    ]
+  },
+  {
+    "text": "A class links classic art styles to esports design and debates the ethics of tracking player health.",
+    "labels": [
+      "Art History",
+      "Bioethics",
+      "Esports"
+    ]
+  },
+  {
+    "text": "A sports website uses bold fonts and fast pages to show live scores.",
+    "labels": [
+      "Sports",
+      "Typography",
+      "Web Development"
+    ]
+  },
+  {
+    "text": "The camp nurse treats hunting injuries and offers time for prayer.",
+    "labels": [
+      "Hunting",
+      "Nursing",
+      "Religion"
+    ]
+  },
+  {
+    "text": "City noise maps are made with algorithms that model acoustics.",
+    "labels": [
+      "Acoustics",
+      "Algorithms",
+      "Urban Studies"
+    ]
+  },
+  {
+    "text": "A digital comic shows a hero using 3D graphics to study crystals.",
+    "labels": [
+      "Comics",
+      "Computer Graphics",
+      "Mineralogy"
+    ]
+  },
+  {
+    "text": "A circus act retells a myth and sparks talks about sacred symbols.",
+    "labels": [
+      "Circus",
+      "Mythology",
+      "Religious Studies"
+    ]
+  },
+  {
+    "text": "Biomedical engineers design reusable devices and manage risks for long-term use.",
+    "labels": [
+      "Biomedical Engineering",
+      "Risk Management",
+      "Sustainability"
+    ]
+  },
+  {
+    "text": "A family studies project in a clinic asks if mind and body are one in healing.",
+    "labels": [
+      "Family Studies",
+      "Medicine",
+      "Metaphysics"
+    ]
+  },
+  {
+    "text": "Aerospace teams study mineral samples to design safe ovens for space food.",
+    "labels": [
+      "Aerospace Engineering",
+      "Culinary Arts",
+      "Mineralogy"
+    ]
+  },
+  {
+    "text": "A game simulates how diet choices spread health risks in a town.",
+    "labels": [
+      "Epidemiology",
+      "Gaming",
+      "Nutrition"
+    ]
+  },
+  {
+    "text": "3D models help civil engineers plan roads around fossil sites.",
+    "labels": [
+      "Civil Engineering",
+      "Computer Graphics",
+      "Paleontology"
+    ]
+  },
+  {
+    "text": "Weather teams use data models to share clear storm warnings.",
+    "labels": [
+      "Communication",
+      "Data Science",
+      "Meteorology"
+    ]
+  },
+  {
+    "text": "Coastal tours offer fresh fish pies baked for visitors.",
+    "labels": [
+      "Baking",
+      "Fishing",
+      "Tourism"
+    ]
+  },
+  {
+    "text": "A photo exhibit pairs star images with ancient myths about the sky.",
+    "labels": [
+      "Astronomy",
+      "Classics",
+      "Photography"
+    ]
+  },
+  {
+    "text": "A city hall design must allow free assembly under the constitution.",
+    "labels": [
+      "Architecture",
+      "Constitutional Law",
+      "Governance"
+    ]
+  },
+  {
+    "text": "A clinic teaches kids safe riding and plant care for better health.",
+    "labels": [
+      "Horticulture",
+      "Motorcycling",
+      "Pediatrics"
+    ]
+  },
+  {
+    "text": "A coding puzzle counts all ways to schedule circus acts.",
+    "labels": [
+      "Circus",
+      "Combinatorics",
+      "Programming"
+    ]
+  },
+  {
+    "text": "A lab builds a game that teaches chemistry reactions using a modular system.",
+    "labels": [
+      "Chemistry",
+      "Game Studies",
+      "Systems Engineering"
+    ]
+  },
+  {
+    "text": "Researchers track tourist crowds at rallies to see brain stress patterns.",
+    "labels": [
+      "Neurology",
+      "Political Science",
+      "Tourism"
+    ]
+  },
+  {
+    "text": "A boutique sells board game themed shirts as a niche brand.",
+    "labels": [
+      "Board Games",
+      "Business",
+      "Fashion"
+    ]
+  },
+  {
+    "text": "Researchers test a voice tool for diet plans using ideas from quantum models.",
+    "labels": [
+      "Dietetics",
+      "Quantum Mechanics",
+      "Speech Recognition"
+    ]
+  },
+  {
+    "text": "At night camp, students learn a simple dance about waves and particles.",
+    "labels": [
+      "Camping",
+      "Dance",
+      "Quantum Mechanics"
+    ]
+  },
+  {
+    "text": "A diplomat cites ethics when pushing a global pact on safe skincare ingredients.",
+    "labels": [
+      "International Relations",
+      "Philosophy",
+      "Skincare"
+    ]
+  },
+  {
+    "text": "A winery website uses a fast network to handle online orders for rare wine.",
+    "labels": [
+      "Computer Networks",
+      "Web Development",
+      "Wine"
+    ]
+  },
+  {
+    "text": "A startup maps a modular app to track mushroom supply chains.",
+    "labels": [
+      "Business",
+      "Fungi",
+      "Software Architecture"
+    ]
+  },
+  {
+    "text": "A report reviews cancer care policies before a journal publishes the findings.",
+    "labels": [
+      "Oncology",
+      "Policy Analysis",
+      "Publishing"
+    ]
+  },
+  {
+    "text": "A lab posts scan images of fungal growth on social media for outreach.",
+    "labels": [
+      "Mycology",
+      "Radiology",
+      "Social Media"
+    ]
+  },
+  {
+    "text": "Analysts map sacred sites to guide fair land policies across regions.",
+    "labels": [
+      "Geography",
+      "Policy Analysis",
+      "Religious Studies"
+    ]
+  },
+  {
+    "text": "A hotel runs its booking app on a stable OS over a secure network.",
+    "labels": [
+      "Computer Networks",
+      "Hospitality",
+      "Operating Systems"
+    ]
+  },
+  {
+    "text": "Nurses test a simple lift device to reduce strain and stress during care.",
+    "labels": [
+      "Mechanical Engineering",
+      "Mental Health",
+      "Nursing"
+    ]
+  },
+  {
+    "text": "A news site uses sharp graphics to show how coffee prices change.",
+    "labels": [
+      "Coffee",
+      "Computer Graphics",
+      "Journalism"
+    ]
+  },
+  {
+    "text": "A chart explains how sound cues can shape player choices in games.",
+    "labels": [
+      "Acoustics",
+      "Game Theory",
+      "Information Design"
+    ]
+  },
+  {
+    "text": "A marina offers older boaters clear bins to sort trash and used oil.",
+    "labels": [
+      "Boating",
+      "Geriatrics",
+      "Waste Management"
+    ]
+  },
+  {
+    "text": "Engineers study how drilling noise affects speech recordings at oil sites.",
+    "labels": [
+      "Acoustics",
+      "Linguistics",
+      "Petroleum Engineering"
+    ]
+  },
+  {
+    "text": "A salon notes how dry, dusty climates and soils can affect hair health.",
+    "labels": [
+      "Climatology",
+      "Geology",
+      "Haircare"
+    ]
+  },
+  {
+    "text": "Students use algebra to pick the safest metal while weighing what is right.",
+    "labels": [
+      "Algebra",
+      "Materials Engineering",
+      "Morality"
+    ]
+  },
+  {
+    "text": "A curator and therapist host a talk on how artists showed time and space after relativity.",
+    "labels": [
+      "Art History",
+      "Occupational Therapy",
+      "Relativity"
+    ]
+  },
+  {
+    "text": "A brand uses a ranking algorithm to suggest poems to new readers.",
+    "labels": [
+      "Algorithms",
+      "Marketing",
+      "Poetry"
+    ]
+  },
+  {
+    "text": "Lawmakers review health data systems for oil field workers to set safer rules.",
+    "labels": [
+      "Medical Informatics",
+      "Petroleum Engineering",
+      "Public Policy"
+    ]
+  },
+  {
+    "text": "A live show uses a planned system to track flower displays on air.",
+    "labels": [
+      "Broadcasting",
+      "Floriculture",
+      "Systems Engineering"
+    ]
+  },
+  {
+    "text": "A studio sets ethics rules for how lab scenes are shown in a science cartoon.",
+    "labels": [
+      "Animation",
+      "Bioethics",
+      "Cartoons"
+    ]
+  },
+  {
+    "text": "A port maps docks as a network to schedule boat traffic more smoothly.",
+    "labels": [
+      "Boating",
+      "Graph Theory",
+      "Operations Management"
+    ]
+  },
+  {
+    "text": "Reporters cover how global space agencies debate dark matter missions at the UN.",
+    "labels": [
+      "Cosmology",
+      "International Relations",
+      "Journalism"
+    ]
+  },
+  {
+    "text": "Railway safety rules limit electromagnetic interference while dining cars plan healthy meals for crews.",
+    "labels": [
+      "Electromagnetism",
+      "Nutrition",
+      "Railways"
+    ]
+  },
+  {
+    "text": "Researchers map how valley echoes affect hikers mood and confuse speech recognition apps.",
+    "labels": [
+      "Geomorphology",
+      "Psychology",
+      "Speech Recognition"
+    ]
+  },
+  {
+    "text": "A public debate asks how a constitution protects faith based views on the origin of the universe.",
+    "labels": [
+      "Constitutional Law",
+      "Cosmology",
+      "Theology"
+    ]
+  },
+  {
+    "text": "A school adds a data science class that teaches algorithms for sorting and prediction.",
+    "labels": [
+      "Algorithms",
+      "Curriculum",
+      "Data Science"
+    ]
+  },
+  {
+    "text": "A baking club uses local grains to support biodiversity and ease stress for members.",
+    "labels": [
+      "Baking",
+      "Biodiversity",
+      "Mental Health"
+    ]
+  },
+  {
+    "text": "Students debate the ethics of using animal sounds in music without causing harm.",
+    "labels": [
+      "Ethics",
+      "Music",
+      "Zoology"
+    ]
+  },
+  {
+    "text": "A nonprofit tracks spending on mushroom farms that boost nutrition and jobs in poor areas.",
+    "labels": [
+      "Accounting",
+      "Fungi",
+      "Human Development"
+    ]
+  },
+  {
+    "text": "Engineers build a hospital tool where the OS manages sensors and control systems to track air quality.",
+    "labels": [
+      "Control Systems",
+      "Operating Systems",
+      "Public Health"
+    ]
+  },
+  {
+    "text": "A class compares sacred texts and science fiction stories about the creation of the universe.",
+    "labels": [
+      "Comparative Literature",
+      "Cosmology",
+      "Theology"
+    ]
+  },
+  {
+    "text": "Researchers study how game design can teach saving habits and guide youth investment skills.",
+    "labels": [
+      "Game Studies",
+      "Human Development",
+      "Investments"
+    ]
+  },
+  {
+    "text": "A clinic uses clear charts to show how well water affects tooth decay in the town.",
+    "labels": [
+      "Dentistry",
+      "Hydrology",
+      "Information Design"
+    ]
+  },
+  {
+    "text": "A museum exhibit uses simple labels to explain mushrooms in classic paintings.",
+    "labels": [
+      "Art History",
+      "Communication",
+      "Mycology"
+    ]
+  },
+  {
+    "text": "Researchers create a database of circus posters that feature fossil themed shows.",
+    "labels": [
+      "Circus",
+      "Databases",
+      "Paleontology"
+    ]
+  },
+  {
+    "text": "AI helps manage farm power use while vets monitor barn sensors for animal health.",
+    "labels": [
+      "Artificial Intelligence",
+      "Power Systems",
+      "Veterinary Medicine"
+    ]
+  },
+  {
+    "text": "Scientists model how birds share information using game theory and ask how we know their strategies.",
+    "labels": [
+      "Epistemology",
+      "Game Theory",
+      "Ornithology"
+    ]
+  },
+  {
+    "text": "A bridge team codes a tool with clean architecture to plan steel joints and test loads.",
+    "labels": [
+      "Metalworking",
+      "Software Architecture",
+      "Structural Engineering"
+    ]
+  },
+  {
+    "text": "Vets use math models and gene software to track a virus in cattle.",
+    "labels": [
+      "Bioinformatics",
+      "Mathematics",
+      "Veterinary Medicine"
+    ]
+  },
+  {
+    "text": "A school PR team tests a website with accessible design to help families in special education.",
+    "labels": [
+      "Public Relations",
+      "Special Education",
+      "User Experience"
+    ]
+  },
+  {
+    "text": "A study uses algebra to model how mineral intake relates to bone health in older adults.",
+    "labels": [
+      "Algebra",
+      "Gerontology",
+      "Mineralogy"
+    ]
+  },
+  {
+    "text": "A TV report covers brain studies of astronauts to improve spacecraft design.",
+    "labels": [
+      "Aerospace Engineering",
+      "Broadcasting",
+      "Neurology"
+    ]
+  },
+  {
+    "text": "A store app uses logic rules to set prices and track stock.",
+    "labels": [
+      "Logic",
+      "Retail",
+      "Software Engineering"
+    ]
+  },
+  {
+    "text": "A startup sells kits that teach students how to spot planets at night.",
+    "labels": [
+      "Astronomy",
+      "Education",
+      "Entrepreneurship"
+    ]
+  },
+  {
+    "text": "Polls shape public policy on better care for older adults.",
+    "labels": [
+      "Geriatrics",
+      "Public Opinion",
+      "Public Policy"
+    ]
+  },
+  {
+    "text": "An online space class links students from many nations to learn the sky.",
+    "labels": [
+      "Astronomy",
+      "Educational Technology",
+      "International Relations"
+    ]
+  },
+  {
+    "text": "In the shop, a maker uses probability and questions of knowledge to choose the best joint.",
+    "labels": [
+      "Epistemology",
+      "Probability",
+      "Woodworking"
+    ]
+  },
+  {
+    "text": "Urban planners use math models to analyze traffic policy options.",
+    "labels": [
+      "Mathematical Modeling",
+      "Policy Analysis",
+      "Urban Studies"
+    ]
+  },
+  {
+    "text": "A wildlife show shares DNA study results on animals using bioinformatics.",
+    "labels": [
+      "Animals",
+      "Bioinformatics",
+      "Broadcasting"
+    ]
+  },
+  {
+    "text": "Doctors use algorithms from nuclear physics to guide precise tumor surgery.",
+    "labels": [
+      "Algorithms",
+      "Nuclear Physics",
+      "Surgery"
+    ]
+  },
+  {
+    "text": "On a camping trip, an anesthesiologist tells myth stories to calm nervous kids.",
+    "labels": [
+      "Anesthesiology",
+      "Camping",
+      "Mythology"
+    ]
+  },
+  {
+    "text": "A store sells posters with black hole art and famous topological shapes.",
+    "labels": [
+      "Astrophysics",
+      "Retail",
+      "Topology"
+    ]
+  },
+  {
+    "text": "A patient app uses friendly design and soft music to present medical records.",
+    "labels": [
+      "Interaction Design",
+      "Medical Informatics",
+      "Music"
+    ]
+  },
+  {
+    "text": "A talk links game worlds, topological puzzles, and a local wine brand.",
+    "labels": [
+      "Game Studies",
+      "Topology",
+      "Wine"
+    ]
+  },
+  {
+    "text": "An industrial engineer optimizes a dental tools factory that supplies hygienic gear for chefs.",
+    "labels": [
+      "Dentistry",
+      "Gastronomy",
+      "Industrial Engineering"
+    ]
+  },
+  {
+    "text": "A nurse hosts an esports charity stream that auctions handmade jewelry.",
+    "labels": [
+      "Esports",
+      "Jewelry",
+      "Nursing"
+    ]
+  },
+  {
+    "text": "A developer builds a clinic website to track surgery bills and taxes.",
+    "labels": [
+      "Surgery",
+      "Taxation",
+      "Web Development"
+    ]
+  },
+  {
+    "text": "A public health poster on mental health stats uses clear typography.",
+    "labels": [
+      "Epidemiology",
+      "Mental Health",
+      "Typography"
+    ]
+  },
+  {
+    "text": "A cartoon shows a stylist using geometric shapes to plan a haircut.",
+    "labels": [
+      "Cartoons",
+      "Geometry",
+      "Haircare"
+    ]
+  },
+  {
+    "text": "A vet clinic's new interior design adds water-saving stations for cleaning.",
+    "labels": [
+      "Interior Design",
+      "Veterinary Medicine",
+      "Water Resources"
+    ]
+  },
+  {
+    "text": "Bridge engineers use combinatorics and geometry to plan strong truss patterns.",
+    "labels": [
+      "Combinatorics",
+      "Geometry",
+      "Structural Engineering"
+    ]
+  },
+  {
+    "text": "In peace talks, leaders used geometric maps to plan budget lines and border deals.",
+    "labels": [
+      "Diplomacy",
+      "Finance",
+      "Geometry"
+    ]
+  },
+  {
+    "text": "A therapist runs a knitting club to calm stress while raising money to save forests.",
+    "labels": [
+      "Conservation",
+      "Knitting",
+      "Psychology"
+    ]
+  },
+  {
+    "text": "Analysts used machine learning to predict election turnout in fishing towns.",
+    "labels": [
+      "Elections",
+      "Fishing",
+      "Machine Learning"
+    ]
+  },
+  {
+    "text": "Scientists studied how melting glaciers spread disease and affect local social ties.",
+    "labels": [
+      "Glaciology",
+      "Pathology",
+      "Sociology"
+    ]
+  },
+  {
+    "text": "Researchers tracked match-fixing in esports by following money flows in the gear supply chain.",
+    "labels": [
+      "Criminology",
+      "Esports",
+      "Supply Chain"
+    ]
+  },
+  {
+    "text": "An ad campaign showed growth maps to attract investments to different regions.",
+    "labels": [
+      "Advertising",
+      "Geography",
+      "Investments"
+    ]
+  },
+  {
+    "text": "A garden show featured bird-safe fashion made from plant dyes.",
+    "labels": [
+      "Fashion",
+      "Horticulture",
+      "Ornithology"
+    ]
+  },
+  {
+    "text": "Nations signed rules for nano sensors used to survey mineral layers.",
+    "labels": [
+      "Geology",
+      "International Law",
+      "Nanotechnology"
+    ]
+  },
+  {
+    "text": "The board used algebra models to plan budgets for new alloy research.",
+    "labels": [
+      "Algebra",
+      "Corporate Governance",
+      "Materials Engineering"
+    ]
+  },
+  {
+    "text": "On a night hike, we used logic to explain star patterns and black holes.",
+    "labels": [
+      "Astrophysics",
+      "Hiking",
+      "Logic"
+    ]
+  },
+  {
+    "text": "A strategy game taught the history of past ice ages and glacier shifts.",
+    "labels": [
+      "Board Games",
+      "Glaciology",
+      "History"
+    ]
+  },
+  {
+    "text": "The team tested an app for fair design that respects gender identity and user needs.",
+    "labels": [
+      "Ethics",
+      "Gender Studies",
+      "User Experience"
+    ]
+  },
+  {
+    "text": "The college opened a physics lab with new telescopes for astronomy classes.",
+    "labels": [
+      "Astronomy",
+      "Higher Education",
+      "Physics"
+    ]
+  },
+  {
+    "text": "On a camp trip, we sampled pond microbes and watched animal behavior.",
+    "labels": [
+      "Camping",
+      "Microbiology",
+      "Zoology"
+    ]
+  },
+  {
+    "text": "Divers debated if harvesting sea fungi was right while mapping ocean currents.",
+    "labels": [
+      "Fungi",
+      "Morality",
+      "Oceanography"
+    ]
+  },
+  {
+    "text": "The tour company offered wine trips to famous valleys around the world.",
+    "labels": [
+      "Tourism",
+      "Travel",
+      "Wine"
+    ]
+  },
+  {
+    "text": "Engineers built hand-crank music players to save power at green events.",
+    "labels": [
+      "Mechanical Engineering",
+      "Music",
+      "Sustainability"
+    ]
+  },
+  {
+    "text": "A data system for fisheries raised big questions about what makes a resource real.",
+    "labels": [
+      "Fisheries",
+      "Information Technology",
+      "Metaphysics"
+    ]
+  },
+  {
+    "text": "A board game taught how air routes change with city age groups and growth.",
+    "labels": [
+      "Aviation",
+      "Board Games",
+      "Demography"
+    ]
+  },
+  {
+    "text": "A study used math models of evolution to support a calm talk between science and faith.",
+    "labels": [
+      "Evolution",
+      "Mathematical Modeling",
+      "Religion"
+    ]
+  },
+  {
+    "text": "A dietitian creates a patented nutrition chart used in clinics.",
+    "labels": [
+      "Dietetics",
+      "Intellectual Property",
+      "Nutrition"
+    ]
+  },
+  {
+    "text": "Brain scans show how a store layout can shape group buying habits.",
+    "labels": [
+      "Neurology",
+      "Retail",
+      "Sociology"
+    ]
+  },
+  {
+    "text": "A school nurse uses simple puzzles to help students in special education focus.",
+    "labels": [
+      "Nursing",
+      "Puzzles",
+      "Special Education"
+    ]
+  },
+  {
+    "text": "City leaders use augmented reality maps to plan evacuations around a volcano.",
+    "labels": [
+      "Augmented Reality",
+      "Governance",
+      "Volcanology"
+    ]
+  },
+  {
+    "text": "A news report explains how caring for pets can strengthen family ties.",
+    "labels": [
+      "Animals",
+      "Family Studies",
+      "Journalism"
+    ]
+  },
+  {
+    "text": "An eye doctor warns hunters that infrared scopes use electromagnetism and can cause eye strain.",
+    "labels": [
+      "Electromagnetism",
+      "Hunting",
+      "Ophthalmology"
+    ]
+  },
+  {
+    "text": "A graphic designer makes a map showing how plant genomes vary across landforms.",
+    "labels": [
+      "Genomics",
+      "Geomorphology",
+      "Graphic Design"
+    ]
+  },
+  {
+    "text": "A programmer models new sail materials to make a boat faster.",
+    "labels": [
+      "Materials Science",
+      "Programming",
+      "Sailing"
+    ]
+  },
+  {
+    "text": "A clinic procures recycled lab containers to support disease tracking.",
+    "labels": [
+      "Epidemiology",
+      "Procurement",
+      "Recycling"
+    ]
+  },
+  {
+    "text": "Public polls react to an operating system update that changes wireless signal power use.",
+    "labels": [
+      "Electromagnetism",
+      "Operating Systems",
+      "Public Opinion"
+    ]
+  },
+  {
+    "text": "A public health course uses a novel to discuss a math model of an outbreak.",
+    "labels": [
+      "Literature",
+      "Mathematical Modeling",
+      "Public Health"
+    ]
+  },
+  {
+    "text": "Debates over circus animal care and performer roles raise issues in conservation and gender studies.",
+    "labels": [
+      "Circus",
+      "Conservation",
+      "Gender Studies"
+    ]
+  },
+  {
+    "text": "Systems engineers use mechatronics to build a robot rig that makes circus acts safer.",
+    "labels": [
+      "Circus",
+      "Mechatronics",
+      "Systems Engineering"
+    ]
+  },
+  {
+    "text": "A PR team uses game theory to handle defect complaints and support quality management.",
+    "labels": [
+      "Game Theory",
+      "Public Relations",
+      "Quality Management"
+    ]
+  },
+  {
+    "text": "A climber crafts a hand drawn map to plan a mountain route.",
+    "labels": [
+      "Cartography",
+      "Crafting",
+      "Mountaineering"
+    ]
+  },
+  {
+    "text": "A bank studies team behavior while redesigning the app user experience to increase revenue.",
+    "labels": [
+      "Finance",
+      "Organizational Behavior",
+      "User Experience"
+    ]
+  },
+  {
+    "text": "A hospital reviews scientific literature to improve quality management in outbreak control.",
+    "labels": [
+      "Epidemiology",
+      "Literature",
+      "Quality Management"
+    ]
+  },
+  {
+    "text": "Heat flow shapes landforms and changes local biodiversity.",
+    "labels": [
+      "Biodiversity",
+      "Geomorphology",
+      "Thermodynamics"
+    ]
+  },
+  {
+    "text": "While camping, we play songs and watch the stars at night.",
+    "labels": [
+      "Astronomy",
+      "Camping",
+      "Music"
+    ]
+  },
+  {
+    "text": "Engineers use animation to show how new machines can help protect forest biodiversity.",
+    "labels": [
+      "Animation",
+      "Biodiversity",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "text": "During a lunar eclipse festival, researchers study how beliefs about the sky shape vaccine acceptance.",
+    "labels": [
+      "Astronomy",
+      "Cultural Studies",
+      "Immunology"
+    ]
+  },
+  {
+    "text": "A smart hair curler uses secure software to protect user data and precise gears for smooth styling.",
+    "labels": [
+      "Beauty",
+      "Cybersecurity",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "text": "Hospitals review pain control rules to reduce gender bias in anesthesia care.",
+    "labels": [
+      "Anesthesiology",
+      "Gender Studies",
+      "Policy Analysis"
+    ]
+  },
+  {
+    "text": "A church funds a flood control project to protect a riverside town.",
+    "labels": [
+      "Finance",
+      "Hydrology",
+      "Theology"
+    ]
+  },
+  {
+    "text": "A city team plans a museum show on Einstein to meet policy goals for science education.",
+    "labels": [
+      "Project Management",
+      "Public Policy",
+      "Relativity"
+    ]
+  },
+  {
+    "text": "HR hosted a wellness day with a poetry reading and a pottery workshop.",
+    "labels": [
+      "Human Resources",
+      "Poetry",
+      "Pottery"
+    ]
+  },
+  {
+    "text": "An ad campaign for quake safety uses stats to show why alerts matter.",
+    "labels": [
+      "Advertising",
+      "Seismology",
+      "Statistics"
+    ]
+  },
+  {
+    "text": "An app teaches ancient Greek food habits and tracks healthy meals.",
+    "labels": [
+      "Classics",
+      "Dietetics",
+      "Information Technology"
+    ]
+  },
+  {
+    "text": "The team accountant tallies costs for a mountain trek and a linked ocean survey.",
+    "labels": [
+      "Accounting",
+      "Mountaineering",
+      "Oceanography"
+    ]
+  },
+  {
+    "text": "A hospital dashboard adds weather data to manage risks during storms.",
+    "labels": [
+      "Medical Informatics",
+      "Meteorology",
+      "Risk Management"
+    ]
+  },
+  {
+    "text": "A dermatologist uses animal studies to check if a beauty lotion irritates skin.",
+    "labels": [
+      "Beauty",
+      "Dermatology",
+      "Zoology"
+    ]
+  },
+  {
+    "text": "The school adds a unit on tiny sensors that track forest health.",
+    "labels": [
+      "Curriculum",
+      "Ecology",
+      "Nanotechnology"
+    ]
+  },
+  {
+    "text": "A new arena is engineered for esports and also supports a surgery demo event.",
+    "labels": [
+      "Civil Engineering",
+      "Esports",
+      "Surgery"
+    ]
+  },
+  {
+    "text": "Engineers use game theory to plan factory steps for making lenses.",
+    "labels": [
+      "Game Theory",
+      "Industrial Engineering",
+      "Optics"
+    ]
+  },
+  {
+    "text": "A dig finds an old tax note about a guild that sold knitted goods.",
+    "labels": [
+      "Archaeology",
+      "Knitting",
+      "Taxation"
+    ]
+  },
+  {
+    "text": "City planners use algebra to model the cost of new parks under a green policy.",
+    "labels": [
+      "Algebra",
+      "Landscaping",
+      "Public Policy"
+    ]
+  },
+  {
+    "text": "A charity esports stream uses strong speech to raise funds for local fish farms.",
+    "labels": [
+      "Esports",
+      "Fisheries",
+      "Rhetoric"
+    ]
+  },
+  {
+    "text": "A study models sweat and friction in dance to guide safe skincare.",
+    "labels": [
+      "Dance",
+      "Mathematical Modeling",
+      "Skincare"
+    ]
+  },
+  {
+    "text": "Researchers track eye infections in families to learn how they spread.",
+    "labels": [
+      "Epidemiology",
+      "Family Studies",
+      "Ophthalmology"
+    ]
+  },
+  {
+    "text": "A seminar asks how we know what is good food under faith rules.",
+    "labels": [
+      "Epistemology",
+      "Gastronomy",
+      "Theology"
+    ]
+  },
+  {
+    "text": "A student models network data with algebra and names the nodes after Greek gods.",
+    "labels": [
+      "Algebra",
+      "Computer Networks",
+      "Mythology"
+    ]
+  },
+  {
+    "text": "A fish farm uses procurement to buy gear and brings a vet to treat sick fish.",
+    "labels": [
+      "Fishing",
+      "Procurement",
+      "Veterinary Medicine"
+    ]
+  },
+  {
+    "text": "A poet beekeeper writes tales about hives by ancient rock layers.",
+    "labels": [
+      "Beekeeping",
+      "Creative Writing",
+      "Geology"
+    ]
+  },
+  {
+    "text": "A programmer builds a rail ticket app for dentists going to a conference.",
+    "labels": [
+      "Dentistry",
+      "Programming",
+      "Railways"
+    ]
+  },
+  {
+    "text": "On a glacier camping trip, students use differential equations to model ice melt.",
+    "labels": [
+      "Camping",
+      "Differential Equations",
+      "Glaciology"
+    ]
+  },
+  {
+    "text": "An app tracks family genes and maps how language traits spread.",
+    "labels": [
+      "Genetics",
+      "Information Technology",
+      "Linguistics"
+    ]
+  },
+  {
+    "text": "An auto engineer works with a potter to make ceramic parts that hold secret codes.",
+    "labels": [
+      "Automotive Engineering",
+      "Cryptography",
+      "Pottery"
+    ]
+  },
+  {
+    "text": "A hotel trains staff with a game that teaches gender inclusion.",
+    "labels": [
+      "Game Design",
+      "Gender Studies",
+      "Hospitality"
+    ]
+  },
+  {
+    "text": "A TV show rates hotels on style and guest comfort.",
+    "labels": [
+      "Aesthetics",
+      "Hospitality",
+      "Television"
+    ]
+  },
+  {
+    "text": "A teacher uses active methods to teach biodiversity and basic quantum ideas.",
+    "labels": [
+      "Biodiversity",
+      "Pedagogy",
+      "Quantum Mechanics"
+    ]
+  },
+  {
+    "text": "A lab procures cameras so robots can take clear photos.",
+    "labels": [
+      "Photography",
+      "Procurement",
+      "Robotics"
+    ]
+  },
+  {
+    "text": "Scientists use data science to study how frogs near landfills are doing.",
+    "labels": [
+      "Data Science",
+      "Herpetology",
+      "Waste Management"
+    ]
+  },
+  {
+    "text": "Analysts use differential equations to study how policy shifts change supply chains.",
+    "labels": [
+      "Differential Equations",
+      "Political Science",
+      "Supply Chain"
+    ]
+  },
+  {
+    "text": "A reporter shoots photos while covering lab work on disease pathology.",
+    "labels": [
+      "Journalism",
+      "Pathology",
+      "Photography"
+    ]
+  },
+  {
+    "text": "A TV poll asks viewers what they think about community gardens and plant care.",
+    "labels": [
+      "Horticulture",
+      "Public Opinion",
+      "Television"
+    ]
+  },
+  {
+    "text": "A therapy garden uses art signs to teach soil health to rehab patients.",
+    "labels": [
+      "Physical Therapy",
+      "Soil Science",
+      "Visual Arts"
+    ]
+  },
+  {
+    "text": "A city lab makes a board game where robots plan better streets.",
+    "labels": [
+      "Board Games",
+      "Robotics",
+      "Urban Studies"
+    ]
+  },
+  {
+    "text": "A TV special shows how AI helps auto engineers build safer cars.",
+    "labels": [
+      "Artificial Intelligence",
+      "Automotive Engineering",
+      "Television"
+    ]
+  },
+  {
+    "text": "A clinic advertises how occupational therapy aids recovery after disease.",
+    "labels": [
+      "Advertising",
+      "Occupational Therapy",
+      "Pathology"
+    ]
+  },
+  {
+    "text": "A coder makes an app that promotes recycling to protect animals.",
+    "labels": [
+      "Animals",
+      "Computer Science",
+      "Recycling"
+    ]
+  },
+  {
+    "text": "The hospital's marketing promoted a recycling drive to cut surgery waste.",
+    "labels": [
+      "Marketing",
+      "Recycling",
+      "Surgery"
+    ]
+  },
+  {
+    "text": "A robot company used PR to show how it serves aging populations.",
+    "labels": [
+      "Demography",
+      "Public Relations",
+      "Robotics"
+    ]
+  },
+  {
+    "text": "A study traced how urban animals adapt while politics guide city park plans.",
+    "labels": [
+      "Evolution",
+      "Political Science",
+      "Urban Studies"
+    ]
+  },
+  {
+    "text": "Scientists used social media to share how heat waves harm public health.",
+    "labels": [
+      "Climatology",
+      "Public Health",
+      "Social Media"
+    ]
+  },
+  {
+    "text": "We held a garden craft day to teach healthy herb use and yard care.",
+    "labels": [
+      "Crafting",
+      "Dietetics",
+      "Landscaping"
+    ]
+  },
+  {
+    "text": "A startup patented a weather app that suggests meals based on the forecast.",
+    "labels": [
+      "Intellectual Property",
+      "Meteorology",
+      "Nutrition"
+    ]
+  },
+  {
+    "text": "An app used calculus to model social networks and study group behavior.",
+    "labels": [
+      "Calculus",
+      "Computer Science",
+      "Sociology"
+    ]
+  },
+  {
+    "text": "The clinic bought new furniture to design a calm gynecology waiting room.",
+    "labels": [
+      "Gynecology",
+      "Interior Design",
+      "Procurement"
+    ]
+  },
+  {
+    "text": "A hotel hired a coder to build a story game that welcomes guests.",
+    "labels": [
+      "Creative Writing",
+      "Hospitality",
+      "Programming"
+    ]
+  },
+  {
+    "text": "The manager led engineers to design sensors that track parts in the supply chain.",
+    "labels": [
+      "Electrical Engineering",
+      "Management",
+      "Supply Chain"
+    ]
+  },
+  {
+    "text": "Archaeologists used algorithms to map ancient plant remains at a dig site.",
+    "labels": [
+      "Algorithms",
+      "Archaeology",
+      "Plants"
+    ]
+  },
+  {
+    "text": "A study used physics to test breathable fashion scrubs for nurses.",
+    "labels": [
+      "Fashion",
+      "Nursing",
+      "Physics"
+    ]
+  },
+  {
+    "text": "A camp taught teens about encryption laws and legal ways to protect data.",
+    "labels": [
+      "Camping",
+      "Cryptography",
+      "Law"
+    ]
+  },
+  {
+    "text": "During a mountain expedition, a nurse supported a team studying pilgrimage routes.",
+    "labels": [
+      "Mountaineering",
+      "Nursing",
+      "Religious Studies"
+    ]
+  },
+  {
+    "text": "Researchers analyzed wildlife films with computer vision to track animal behavior.",
+    "labels": [
+      "Computer Vision",
+      "Film Studies",
+      "Zoology"
+    ]
+  },
+  {
+    "text": "A study of fishing towns linked local fish words to community memory and identity.",
+    "labels": [
+      "Fisheries",
+      "Linguistics",
+      "Psychology"
+    ]
+  },
+  {
+    "text": "A marine vet made a comic to teach kids about ocean animal care.",
+    "labels": [
+      "Comics",
+      "Oceanography",
+      "Veterinary Medicine"
+    ]
+  },
+  {
+    "text": "Software used physics to render realistic garden scenes for landscape plans.",
+    "labels": [
+      "Computer Graphics",
+      "Landscaping",
+      "Physics"
+    ]
+  },
+  {
+    "text": "Engineers coded a system to sort recycled materials by type and quality.",
+    "labels": [
+      "Computer Science",
+      "Materials Engineering",
+      "Recycling"
+    ]
+  },
+  {
+    "text": "Dancers tested how brain focus and body heat change during intense shows.",
+    "labels": [
+      "Neurology",
+      "Performing Arts",
+      "Thermodynamics"
+    ]
+  },
+  {
+    "text": "A study group solves algebra while sipping coffee and reading classic literature.",
+    "labels": [
+      "Algebra",
+      "Coffee",
+      "Literature"
+    ]
+  },
+  {
+    "text": "An animated tutor uses logic to power speech recognition.",
+    "labels": [
+      "Animation",
+      "Logic",
+      "Speech Recognition"
+    ]
+  },
+  {
+    "text": "A photographer tracks solar panel growth with photos and statistics.",
+    "labels": [
+      "Photography",
+      "Renewable Energy",
+      "Statistics"
+    ]
+  },
+  {
+    "text": "During a health drive, a cloud archive lets students study art history from home.",
+    "labels": [
+      "Art History",
+      "Cloud Computing",
+      "Public Health"
+    ]
+  },
+  {
+    "text": "A team leader reads adventure literature to plan a safe mountaineering trip.",
+    "labels": [
+      "Literature",
+      "Management",
+      "Mountaineering"
+    ]
+  },
+  {
+    "text": "A designer and a metalworker make safe, stylish walkers for older adults.",
+    "labels": [
+      "Fashion",
+      "Geriatrics",
+      "Metalworking"
+    ]
+  },
+  {
+    "text": "Engineers help diplomats and criminologists upgrade embassy security sensors.",
+    "labels": [
+      "Criminology",
+      "Diplomacy",
+      "Electrical Engineering"
+    ]
+  },
+  {
+    "text": "A clinic studies how culture shapes child care in psychiatry.",
+    "labels": [
+      "Cultural Studies",
+      "Pediatrics",
+      "Psychiatry"
+    ]
+  },
+  {
+    "text": "Students model how a circus and a pottery class share space using game theory.",
+    "labels": [
+      "Circus",
+      "Game Theory",
+      "Pottery"
+    ]
+  },
+  {
+    "text": "HR hosts a workshop where sewing staff and software engineers practice teamwork.",
+    "labels": [
+      "Human Resources",
+      "Sewing",
+      "Software Engineering"
+    ]
+  },
+  {
+    "text": "A community garden near oil fields brings floriculture, engineers, and social workers together.",
+    "labels": [
+      "Floriculture",
+      "Petroleum Engineering",
+      "Social Work"
+    ]
+  },
+  {
+    "text": "Therapists use a flower garden for movement practice and soil tests.",
+    "labels": [
+      "Floriculture",
+      "Physical Therapy",
+      "Soil Science"
+    ]
+  },
+  {
+    "text": "A hospital team builds a child friendly monitor with code and circuits.",
+    "labels": [
+      "Computer Science",
+      "Electrical Engineering",
+      "Pediatrics"
+    ]
+  },
+  {
+    "text": "Engineers help fishers map warm waters near a volcano.",
+    "labels": [
+      "Engineering",
+      "Fishing",
+      "Volcanology"
+    ]
+  },
+  {
+    "text": "Reporters cover a theater show that uses virtual reality on stage.",
+    "labels": [
+      "Journalism",
+      "Theater",
+      "Virtual Reality"
+    ]
+  },
+  {
+    "text": "Fish experts study how dam power systems change river biodiversity.",
+    "labels": [
+      "Biodiversity",
+      "Ichthyology",
+      "Power Systems"
+    ]
+  },
+  {
+    "text": "A map project links volcanic soils to famous wine regions.",
+    "labels": [
+      "Geography",
+      "Volcanology",
+      "Wine"
+    ]
+  },
+  {
+    "text": "Researchers use game theory to study gender bias in bank lending.",
+    "labels": [
+      "Banking",
+      "Game Theory",
+      "Gender Studies"
+    ]
+  },
+  {
+    "text": "A home app uses speech recognition to support family communication.",
+    "labels": [
+      "Communication",
+      "Family Studies",
+      "Speech Recognition"
+    ]
+  },
+  {
+    "text": "A club solves puzzles and knits while learning how company boards work.",
+    "labels": [
+      "Corporate Governance",
+      "Knitting",
+      "Puzzles"
+    ]
+  },
+  {
+    "text": "A novel tells of diplomats debating new rules for gene editing.",
+    "labels": [
+      "Diplomacy",
+      "Genetics",
+      "Literature"
+    ]
+  },
+  {
+    "text": "Software and systems engineers build an app to model immune responses.",
+    "labels": [
+      "Immunology",
+      "Software Engineering",
+      "Systems Engineering"
+    ]
+  },
+  {
+    "text": "Calculus helps tune a control system with a clear software architecture.",
+    "labels": [
+      "Calculus",
+      "Control Systems",
+      "Software Architecture"
+    ]
+  },
+  {
+    "text": "An AR app shows how green streets improve city water flow.",
+    "labels": [
+      "Augmented Reality",
+      "Environmental Engineering",
+      "Urban Studies"
+    ]
+  },
+  {
+    "text": "Farmers share data to optimize watering for healthy plants.",
+    "labels": [
+      "Communication",
+      "Optimization",
+      "Plants"
+    ]
+  },
+  {
+    "text": "A landscaping project adds trails and bird gardens to boost fitness and bird study.",
+    "labels": [
+      "Fitness",
+      "Landscaping",
+      "Ornithology"
+    ]
+  },
+  {
+    "text": "A linguist helps a court analyze a bakery note in a fraud case.",
+    "labels": [
+      "Baking",
+      "Criminal Law",
+      "Linguistics"
+    ]
+  },
+  {
+    "text": "A coastal fish farm runs on wind power and hosts a ride-in tour for motorcyclists.",
+    "labels": [
+      "Aquaculture",
+      "Motorcycling",
+      "Renewable Energy"
+    ]
+  },
+  {
+    "text": "Researchers study a game that uses a flower database to teach floral design.",
+    "labels": [
+      "Databases",
+      "Floriculture",
+      "Game Studies"
+    ]
+  },
+  {
+    "text": "A model learns to set type while respecting heat limits in a print shop.",
+    "labels": [
+      "Machine Learning",
+      "Thermodynamics",
+      "Typography"
+    ]
+  },
+  {
+    "text": "A hospital procures software that tracks physical therapy outcomes.",
+    "labels": [
+      "Medical Informatics",
+      "Physical Therapy",
+      "Procurement"
+    ]
+  },
+  {
+    "text": "A pottery studio runs a PR campaign about new sales taxes on its mugs.",
+    "labels": [
+      "Pottery",
+      "Public Relations",
+      "Taxation"
+    ]
+  },
+  {
+    "text": "Insurers and doctors use geology maps to plan care after a quake.",
+    "labels": [
+      "Geology",
+      "Insurance",
+      "Medicine"
+    ]
+  },
+  {
+    "text": "International law guides biomedical engineers who build sensors to track wildlife and hunting quotas.",
+    "labels": [
+      "Biomedical Engineering",
+      "Hunting",
+      "International Law"
+    ]
+  },
+  {
+    "text": "Clinics test tiny sensors that send senior health data over phone networks.",
+    "labels": [
+      "Geriatrics",
+      "Nanotechnology",
+      "Telecommunications"
+    ]
+  },
+  {
+    "text": "Programmers use topology in code to optimize retail store aisle layouts.",
+    "labels": [
+      "Programming",
+      "Retail",
+      "Topology"
+    ]
+  },
+  {
+    "text": "Engineers design materials for aquaculture labs that record fish neural signals.",
+    "labels": [
+      "Aquaculture",
+      "Materials Engineering",
+      "Neurology"
+    ]
+  },
+  {
+    "text": "A class uses math models to study how loans grow over time.",
+    "labels": [
+      "Education",
+      "Finance",
+      "Mathematical Modeling"
+    ]
+  },
+  {
+    "text": "A speech app made by computer scientists reads recipe steps while you cook.",
+    "labels": [
+      "Computer Science",
+      "Cooking",
+      "Speech Recognition"
+    ]
+  },
+  {
+    "text": "On a sailing trip, students discuss quantum ideas while visiting a fish farm.",
+    "labels": [
+      "Aquaculture",
+      "Quantum Mechanics",
+      "Sailing"
+    ]
+  },
+  {
+    "text": "A robot chef uses fish science to cook salmon just right.",
+    "labels": [
+      "Cooking",
+      "Ichthyology",
+      "Mechatronics"
+    ]
+  },
+  {
+    "text": "A business uses GPS, which depends on relativity, to help crime labs track fraud.",
+    "labels": [
+      "Business",
+      "Criminology",
+      "Relativity"
+    ]
+  },
+  {
+    "text": "Doctors study how older patients handle anesthesia using ideas from evolution.",
+    "labels": [
+      "Anesthesiology",
+      "Evolution",
+      "Geriatrics"
+    ]
+  },
+  {
+    "text": "City leaders use gene data and simple map shapes to guide health rules.",
+    "labels": [
+      "Genomics",
+      "Geometry",
+      "Governance"
+    ]
+  },
+  {
+    "text": "A phone company and a realtor use language studies to target home ads.",
+    "labels": [
+      "Linguistics",
+      "Real Estate",
+      "Telecommunications"
+    ]
+  },
+  {
+    "text": "Engineers use X-ray scans of rock layers to map landforms for a dam.",
+    "labels": [
+      "Civil Engineering",
+      "Geomorphology",
+      "Radiology"
+    ]
+  },
+  {
+    "text": "A show on women in architecture uses light tricks to change how rooms look.",
+    "labels": [
+      "Architecture",
+      "Gender Studies",
+      "Optics"
+    ]
+  },
+  {
+    "text": "A movie shows hunters making choices that match game theory.",
+    "labels": [
+      "Cinema",
+      "Game Theory",
+      "Hunting"
+    ]
+  },
+  {
+    "text": "A circus charity uses a phone game to raise money for obstetrics care.",
+    "labels": [
+      "Circus",
+      "Gaming",
+      "Obstetrics"
+    ]
+  },
+  {
+    "text": "A seafood company sets board rules to support chefs and fish science.",
+    "labels": [
+      "Corporate Governance",
+      "Culinary Arts",
+      "Ichthyology"
+    ]
+  },
+  {
+    "text": "A school hosts plays that bring tourists to learn about the city.",
+    "labels": [
+      "Education",
+      "Performing Arts",
+      "Tourism"
+    ]
+  },
+  {
+    "text": "A board game teaches how sacred art used new metals and glass.",
+    "labels": [
+      "Board Games",
+      "Materials Science",
+      "Religious Studies"
+    ]
+  },
+  {
+    "text": "A hunting club uses team behavior training and heart health checks for members.",
+    "labels": [
+      "Cardiology",
+      "Hunting",
+      "Organizational Behavior"
+    ]
+  },
+  {
+    "text": "Engineers model networks with combinatorics and differential equations.",
+    "labels": [
+      "Combinatorics",
+      "Differential Equations",
+      "Distributed Systems"
+    ]
+  },
+  {
+    "text": "A startup sells tiny chips that guide tourists through a city.",
+    "labels": [
+      "Entrepreneurship",
+      "Microelectronics",
+      "Tourism"
+    ]
+  },
+  {
+    "text": "Researchers study coastal cultures and ocean life to find new medicines.",
+    "labels": [
+      "Anthropology",
+      "Oceanography",
+      "Pharmacy"
+    ]
+  },
+  {
+    "text": "A puzzle app compares cooking steps with simple surgery steps to teach planning.",
+    "labels": [
+      "Cooking",
+      "Puzzles",
+      "Surgery"
+    ]
+  },
+  {
+    "text": "Road builders study insect damage while planning food safety near sites.",
+    "labels": [
+      "Civil Engineering",
+      "Entomology",
+      "Gastronomy"
+    ]
+  },
+  {
+    "text": "A pharmacy app uses clear screens and strong encryption to protect orders.",
+    "labels": [
+      "Cryptography",
+      "Interaction Design",
+      "Pharmacy"
+    ]
+  },
+  {
+    "text": "Park planners study visitor ages to set fair camping and fishing rules.",
+    "labels": [
+      "Camping",
+      "Demography",
+      "Fishing"
+    ]
+  },
+  {
+    "text": "A bank's board approves better delivery tracking for cash transport.",
+    "labels": [
+      "Banking",
+      "Corporate Governance",
+      "Logistics"
+    ]
+  },
+  {
+    "text": "A media class studies how knot topology in jewelry shows up across ads.",
+    "labels": [
+      "Jewelry",
+      "Media Studies",
+      "Topology"
+    ]
+  },
+  {
+    "text": "A coach uses math to optimize boat speed for a rowing team.",
+    "labels": [
+      "Boating",
+      "Optimization",
+      "Sports"
+    ]
+  },
+  {
+    "text": "A cultural exchange app uses easy to use design to share baking traditions between nations.",
+    "labels": [
+      "Baking",
+      "Diplomacy",
+      "User Experience"
+    ]
+  },
+  {
+    "text": "A startup founder debates the ethics of profit in a philosophy club.",
+    "labels": [
+      "Entrepreneurship",
+      "Morality",
+      "Philosophy"
+    ]
+  },
+  {
+    "text": "An AI manages data center networks to cut heat using thermodynamics.",
+    "labels": [
+      "Artificial Intelligence",
+      "Computer Networks",
+      "Thermodynamics"
+    ]
+  },
+  {
+    "text": "A digital book on reptiles runs on an app with clean software architecture.",
+    "labels": [
+      "Herpetology",
+      "Literature",
+      "Software Architecture"
+    ]
+  },
+  {
+    "text": "A cartoon teaches expectant mothers which jewelry is safe during pregnancy.",
+    "labels": [
+      "Cartoons",
+      "Jewelry",
+      "Obstetrics"
+    ]
+  },
+  {
+    "text": "A model uses sets to group volcano zones for planning geothermal energy.",
+    "labels": [
+      "Renewable Energy",
+      "Set Theory",
+      "Volcanology"
+    ]
+  },
+  {
+    "text": "Doctors examine how family genes affect health and care plans.",
+    "labels": [
+      "Family Studies",
+      "Genetics",
+      "Medicine"
+    ]
+  },
+  {
+    "text": "A retail chain uses a distributed system to track stock and reduce risk.",
+    "labels": [
+      "Distributed Systems",
+      "Retail",
+      "Risk Management"
+    ]
+  },
+  {
+    "text": "A theater studies sound and airflow to lower disease spread risk.",
+    "labels": [
+      "Acoustics",
+      "Epidemiology",
+      "Theater"
+    ]
+  },
+  {
+    "text": "Anthropologists help city leaders set fair rules for buying goods.",
+    "labels": [
+      "Anthropology",
+      "Governance",
+      "Procurement"
+    ]
+  },
+  {
+    "text": "A board game uses computer graphics to show maps of nodes and edges.",
+    "labels": [
+      "Board Games",
+      "Computer Graphics",
+      "Graph Theory"
+    ]
+  },
+  {
+    "text": "A class uses short poems to explain probability and risk at work.",
+    "labels": [
+      "Poetry",
+      "Probability",
+      "Risk Management"
+    ]
+  },
+  {
+    "text": "Auto engineers use differential equations to design vans that move sick animals safely.",
+    "labels": [
+      "Automotive Engineering",
+      "Differential Equations",
+      "Veterinary Medicine"
+    ]
+  },
+  {
+    "text": "A VR publisher releases an app that teaches kids how to bake.",
+    "labels": [
+      "Baking",
+      "Publishing",
+      "Virtual Reality"
+    ]
+  },
+  {
+    "text": "A pottery studio runs PR posts on social media to promote a new glaze.",
+    "labels": [
+      "Pottery",
+      "Public Relations",
+      "Social Media"
+    ]
+  },
+  {
+    "text": "A robot uses physics to set the camera for clear photos of moving objects.",
+    "labels": [
+      "Photography",
+      "Physics",
+      "Robotics"
+    ]
+  },
+  {
+    "text": "A cartoon explains how age and region data in health records guide care.",
+    "labels": [
+      "Cartoons",
+      "Demography",
+      "Medical Informatics"
+    ]
+  },
+  {
+    "text": "A TV science show explains how signals sync in distributed systems using physics.",
+    "labels": [
+      "Distributed Systems",
+      "Physics",
+      "Television"
+    ]
+  },
+  {
+    "text": "A clinic uses machine learning to track therapy progress and improve quality.",
+    "labels": [
+      "Machine Learning",
+      "Physical Therapy",
+      "Quality Management"
+    ]
+  },
+  {
+    "text": "A gardening class uses X-ray images with clear charts to teach seed health.",
+    "labels": [
+      "Gardening",
+      "Information Design",
+      "Radiology"
+    ]
+  },
+  {
+    "text": "A boat racing game shows ads on sails during online matches.",
+    "labels": [
+      "Advertising",
+      "Boating",
+      "Gaming"
+    ]
+  },
+  {
+    "text": "An audit checks a glaciology exhibit for correct data and safe interior design.",
+    "labels": [
+      "Auditing",
+      "Glaciology",
+      "Interior Design"
+    ]
+  },
+  {
+    "text": "A summit on esports teams reviews trade rules and needs careful diplomacy.",
+    "labels": [
+      "Diplomacy",
+      "Economics",
+      "Esports"
+    ]
+  },
+  {
+    "text": "A social worker uses photos and simple animation to teach kids about safety.",
+    "labels": [
+      "Animation",
+      "Photography",
+      "Social Work"
+    ]
+  },
+  {
+    "text": "An app uses bioinformatics and optimization to plan healthy hikes for fun.",
+    "labels": [
+      "Bioinformatics",
+      "Optimization",
+      "Recreation"
+    ]
+  },
+  {
+    "text": "In logistics, we use algebra to model deliveries and ask how we know it will work.",
+    "labels": [
+      "Algebra",
+      "Epistemology",
+      "Logistics"
+    ]
+  },
+  {
+    "text": "Scientists study how volcanic soil affects fungi that support health in old age.",
+    "labels": [
+      "Fungi",
+      "Gerontology",
+      "Volcanology"
+    ]
+  },
+  {
+    "text": "Researchers use genomics to breed hardy garden plants and test new pot materials.",
+    "labels": [
+      "Genomics",
+      "Horticulture",
+      "Materials Science"
+    ]
+  },
+  {
+    "text": "An AR map app shows city sites and finance data to guide smart investments.",
+    "labels": [
+      "Augmented Reality",
+      "Cartography",
+      "Investments"
+    ]
+  },
+  {
+    "text": "A class on wine culture uses teaching methods from anthropology.",
+    "labels": [
+      "Anthropology",
+      "Pedagogy",
+      "Wine"
+    ]
+  },
+  {
+    "text": "A show manager works with an anesthesiology consultant to make a medical play realistic.",
+    "labels": [
+      "Anesthesiology",
+      "Management",
+      "Performing Arts"
+    ]
+  },
+  {
+    "text": "A museum protects intellectual property on fossil gene data managed by bioinformatics.",
+    "labels": [
+      "Bioinformatics",
+      "Intellectual Property",
+      "Paleontology"
+    ]
+  },
+  {
+    "text": "Hotel owners meet with oceanographers to help shape coastal tourism policy.",
+    "labels": [
+      "Hospitality",
+      "Oceanography",
+      "Public Policy"
+    ]
+  },
+  {
+    "text": "Engineers use virtual reality to plan a winery road and test safe traffic flow.",
+    "labels": [
+      "Civil Engineering",
+      "Virtual Reality",
+      "Wine"
+    ]
+  },
+  {
+    "text": "A physics app uses combinatorics to simplify choices and improve user experience.",
+    "labels": [
+      "Combinatorics",
+      "Physics",
+      "User Experience"
+    ]
+  },
+  {
+    "text": "A metaphysics class uses animals and plants to discuss what life really is.",
+    "labels": [
+      "Animals",
+      "Metaphysics",
+      "Plants"
+    ]
+  },
+  {
+    "text": "A fashion brand plans taxes while pathology tests check fabrics for safety.",
+    "labels": [
+      "Fashion",
+      "Pathology",
+      "Taxation"
+    ]
+  },
+  {
+    "text": "City planners use graph models to design trash routes that serve eco friendly buildings.",
+    "labels": [
+      "Architecture",
+      "Graph Theory",
+      "Waste Management"
+    ]
+  },
+  {
+    "text": "Students share a poem across the school network to study how persuasive lines spread.",
+    "labels": [
+      "Computer Networks",
+      "Poetry",
+      "Rhetoric"
+    ]
+  },
+  {
+    "text": "TV hosts debate how to share telescope time using fair play strategies.",
+    "labels": [
+      "Astronomy",
+      "Broadcasting",
+      "Game Theory"
+    ]
+  },
+  {
+    "text": "A city grant helps a small knitting shop grow while meeting fair labor rules.",
+    "labels": [
+      "Business",
+      "Knitting",
+      "Public Policy"
+    ]
+  },
+  {
+    "text": "Therapists address gender needs of glacier researchers to prevent injury.",
+    "labels": [
+      "Gender Studies",
+      "Glaciology",
+      "Occupational Therapy"
+    ]
+  },
+  {
+    "text": "Designers plan an observatory with secure coded access to protect astrophysics data.",
+    "labels": [
+      "Architecture",
+      "Astrophysics",
+      "Cryptography"
+    ]
+  },
+  {
+    "text": "Climbers use AR maps to see water flow paths and choose safe routes.",
+    "labels": [
+      "Augmented Reality",
+      "Hydrology",
+      "Mountaineering"
+    ]
+  },
+  {
+    "text": "A church garden sparks talks on the right way to share food from the plants.",
+    "labels": [
+      "Ethics",
+      "Plants",
+      "Religion"
+    ]
+  },
+  {
+    "text": "An app uses video AI to track a drummer's moves during a halftime show.",
+    "labels": [
+      "Computer Vision",
+      "Music",
+      "Sports"
+    ]
+  },
+  {
+    "text": "Researchers study how tax policy shapes factory efficiency and support for faith groups.",
+    "labels": [
+      "Industrial Engineering",
+      "Religious Studies",
+      "Taxation"
+    ]
+  },
+  {
+    "text": "A science show explains how grid power moves using waves and fields.",
+    "labels": [
+      "Broadcasting",
+      "Physics",
+      "Power Systems"
+    ]
+  },
+  {
+    "text": "Nations share new battery tech data to build trust and cleaner products.",
+    "labels": [
+      "Diplomacy",
+      "Information Technology",
+      "Materials Engineering"
+    ]
+  },
+  {
+    "text": "A class compares bike chase scenes in movies and games to study design.",
+    "labels": [
+      "Film Studies",
+      "Game Studies",
+      "Motorcycling"
+    ]
+  },
+  {
+    "text": "Therapists use garden and fishing tasks to help patients build strength.",
+    "labels": [
+      "Fishing",
+      "Horticulture",
+      "Occupational Therapy"
+    ]
+  },
+  {
+    "text": "Reporters query a brain study database to check facts on memory loss.",
+    "labels": [
+      "Databases",
+      "Journalism",
+      "Neurology"
+    ]
+  },
+  {
+    "text": "A bakery cuts waste and smooths orders to meet green goals.",
+    "labels": [
+      "Baking",
+      "Conservation",
+      "Operations Management"
+    ]
+  },
+  {
+    "text": "Leaders weigh the ethics of chemical recycling methods for city trash.",
+    "labels": [
+      "Chemistry",
+      "Morality",
+      "Waste Management"
+    ]
+  },
+  {
+    "text": "Nurses use math to track supplies and cut waste for conservation in a clinic.",
+    "labels": [
+      "Conservation",
+      "Mathematics",
+      "Nursing"
+    ]
+  },
+  {
+    "text": "An AI coaches a team by reading match data from a distributed game server.",
+    "labels": [
+      "Artificial Intelligence",
+      "Distributed Systems",
+      "Esports"
+    ]
+  },
+  {
+    "text": "Engineers use game theory on fungal networks to inspire microchip wiring designs.",
+    "labels": [
+      "Fungi",
+      "Game Theory",
+      "Microelectronics"
+    ]
+  },
+  {
+    "text": "A film studio stores movies in the cloud under strict board rules.",
+    "labels": [
+      "Cinema",
+      "Cloud Computing",
+      "Corporate Governance"
+    ]
+  },
+  {
+    "text": "Chemical engineers test a new bug repellent with a clear logic plan.",
+    "labels": [
+      "Chemical Engineering",
+      "Entomology",
+      "Logic"
+    ]
+  },
+  {
+    "text": "Civil engineers use calculus to predict how fungi weaken wood beams.",
+    "labels": [
+      "Calculus",
+      "Civil Engineering",
+      "Fungi"
+    ]
+  },
+  {
+    "text": "Students code a knitting app and discuss the ethics of fair labor.",
+    "labels": [
+      "Computer Science",
+      "Knitting",
+      "Morality"
+    ]
+  },
+  {
+    "text": "Researchers study how melting glaciers change family life in small towns.",
+    "labels": [
+      "Family Studies",
+      "Glaciology",
+      "Sociology"
+    ]
+  },
+  {
+    "text": "Engineers design a workflow that helps archaeologists share dig results fast.",
+    "labels": [
+      "Archaeology",
+      "Communication",
+      "Industrial Engineering"
+    ]
+  },
+  {
+    "text": "A health clinic for teeth and womens care keeps careful tax records.",
+    "labels": [
+      "Dentistry",
+      "Gynecology",
+      "Taxation"
+    ]
+  },
+  {
+    "text": "A college sewing club pairs students with seniors to learn skills.",
+    "labels": [
+      "Geriatrics",
+      "Higher Education",
+      "Sewing"
+    ]
+  },
+  {
+    "text": "Managers plan garden zones by myth themes to guide work and visitors.",
+    "labels": [
+      "Gardening",
+      "Mythology",
+      "Operations Management"
+    ]
+  },
+  {
+    "text": "Park staff use geometry and math models to plan safe bike trails for fun.",
+    "labels": [
+      "Geometry",
+      "Mathematical Modeling",
+      "Recreation"
+    ]
+  },
+  {
+    "text": "Public rules guide how nuclear power systems run on the grid.",
+    "labels": [
+      "Governance",
+      "Nuclear Physics",
+      "Power Systems"
+    ]
+  },
+  {
+    "text": "A tour company uses math and tide charts to plan and sell ocean trips.",
+    "labels": [
+      "Marketing",
+      "Mathematics",
+      "Oceanography"
+    ]
+  },
+  {
+    "text": "A medical robot uses sound waves to find a patients heartbeat.",
+    "labels": [
+      "Acoustics",
+      "Medicine",
+      "Robotics"
+    ]
+  },
+  {
+    "text": "Teachers show disease spread in a pottery class with simple motion rules.",
+    "labels": [
+      "Epidemiology",
+      "Physics",
+      "Pottery"
+    ]
+  },
+  {
+    "text": "Experts study how woodshop dust in canyon workshops affects heart health.",
+    "labels": [
+      "Cardiology",
+      "Geomorphology",
+      "Woodworking"
+    ]
+  },
+  {
+    "text": "A city builds fair warning systems using weather data and bright light signals.",
+    "labels": [
+      "Civil Rights",
+      "Meteorology",
+      "Photonics"
+    ]
+  },
+  {
+    "text": "Lab teams scan soil proteins to track local biodiversity.",
+    "labels": [
+      "Biodiversity",
+      "Proteomics",
+      "Soil Science"
+    ]
+  },
+  {
+    "text": "Students build an operating system tool to catalog hunting myths across cultures.",
+    "labels": [
+      "Comparative Literature",
+      "Hunting",
+      "Operating Systems"
+    ]
+  },
+  {
+    "text": "Activists use secure networks to defend speech while respecting IP rights.",
+    "labels": [
+      "Computer Networks",
+      "Human Rights",
+      "Intellectual Property"
+    ]
+  },
+  {
+    "text": "Accountants track the cost of robot cameras for the lab.",
+    "labels": [
+      "Accounting",
+      "Optics",
+      "Robotics"
+    ]
+  },
+  {
+    "text": "A woodshop uses cloud tools and combinatorics to plan cuts and reduce waste.",
+    "labels": [
+      "Cloud Computing",
+      "Combinatorics",
+      "Woodworking"
+    ]
+  },
+  {
+    "text": "Hospital teams study behavior and faith needs to guide safe anesthesiology care.",
+    "labels": [
+      "Anesthesiology",
+      "Organizational Behavior",
+      "Religious Studies"
+    ]
+  },
+  {
+    "text": "Therapists use AI to track progress in occupational and physical therapy.",
+    "labels": [
+      "Artificial Intelligence",
+      "Occupational Therapy",
+      "Physical Therapy"
+    ]
+  },
+  {
+    "text": "Senior centers host dance classes that follow safety laws and support healthy aging.",
+    "labels": [
+      "Dance",
+      "Gerontology",
+      "Law"
+    ]
+  },
+  {
+    "text": "A coastal festival mixes circus shows with fisheries demos and tests user experience.",
+    "labels": [
+      "Circus",
+      "Fisheries",
+      "User Experience"
+    ]
+  },
+  {
+    "text": "A boat tour links glaciology facts with art history of glacier paintings.",
+    "labels": [
+      "Art History",
+      "Boating",
+      "Glaciology"
+    ]
+  },
+  {
+    "text": "A class uses crime films to discuss criminology and ethics.",
+    "labels": [
+      "Criminology",
+      "Ethics",
+      "Film Studies"
+    ]
+  },
+  {
+    "text": "A team manages a project that shares data tools between astrophysics and epidemiology.",
+    "labels": [
+      "Astrophysics",
+      "Epidemiology",
+      "Project Management"
+    ]
+  },
+  {
+    "text": "Coffee growers use set theory and hydrology data to plan field irrigation.",
+    "labels": [
+      "Coffee",
+      "Hydrology",
+      "Set Theory"
+    ]
+  },
+  {
+    "text": "Game designers use physics to make animal movement look real.",
+    "labels": [
+      "Animals",
+      "Game Studies",
+      "Physics"
+    ]
+  },
+  {
+    "text": "A game teaches how aquaculture rules follow international law at sea.",
+    "labels": [
+      "Aquaculture",
+      "Gaming",
+      "International Law"
+    ]
+  },
+  {
+    "text": "Planners count safe circus rig options with combinatorics using seismology maps.",
+    "labels": [
+      "Circus",
+      "Combinatorics",
+      "Seismology"
+    ]
+  },
+  {
+    "text": "A school lesson links aquaculture and astrophysics to teach science skills.",
+    "labels": [
+      "Aquaculture",
+      "Astrophysics",
+      "Education"
+    ]
+  },
+  {
+    "text": "Doctors and paleontologists share images and records over secure computer networks.",
+    "labels": [
+      "Computer Networks",
+      "Medicine",
+      "Paleontology"
+    ]
+  },
+  {
+    "text": "A bakery uses ads and geography to target where its cakes will sell.",
+    "labels": [
+      "Advertising",
+      "Baking",
+      "Geography"
+    ]
+  },
+  {
+    "text": "An office interior plan adds easy-to-clean surfaces, recycling, and microbiology tips.",
+    "labels": [
+      "Interior Design",
+      "Microbiology",
+      "Recycling"
+    ]
+  },
+  {
+    "text": "Countries work together to protect ecotourism sites and ecosystems.",
+    "labels": [
+      "Ecology",
+      "International Relations",
+      "Tourism"
+    ]
+  },
+  {
+    "text": "A park project manages crews, uses nano coated tools, and plans landscaping tasks.",
+    "labels": [
+      "Landscaping",
+      "Nanotechnology",
+      "Operations Management"
+    ]
+  },
+  {
+    "text": "A cosmetics lab uses data science and math models to test new products.",
+    "labels": [
+      "Cosmetics",
+      "Data Science",
+      "Mathematical Modeling"
+    ]
+  },
+  {
+    "text": "Researchers study how gender shapes aviation jobs on flights that survey glaciers.",
+    "labels": [
+      "Aviation",
+      "Gender Studies",
+      "Glaciology"
+    ]
+  },
+  {
+    "text": "Monastery leaders manage herb gardens used for study and worship.",
+    "labels": [
+      "Horticulture",
+      "Management",
+      "Religious Studies"
+    ]
+  },
+  {
+    "text": "A hotel welcomes guests with handmade decor while engineers check the building frame.",
+    "labels": [
+      "Crafting",
+      "Hospitality",
+      "Structural Engineering"
+    ]
+  },
+  {
+    "text": "An office uses clear signs and calm layouts to guide staff behavior.",
+    "labels": [
+      "Interior Design",
+      "Organizational Behavior",
+      "Typography"
+    ]
+  },
+  {
+    "text": "A zoo uses a distributed sensor system to monitor snakes and design safe visitor spaces.",
+    "labels": [
+      "Distributed Systems",
+      "Herpetology",
+      "Interior Design"
+    ]
+  },
+  {
+    "text": "Developers build an app for councils to manage mushroom harvest permits.",
+    "labels": [
+      "Fungi",
+      "Governance",
+      "Software Engineering"
+    ]
+  },
+  {
+    "text": "Scientists study how changing weather affects wildlife and green living plans.",
+    "labels": [
+      "Animals",
+      "Climatology",
+      "Sustainability"
+    ]
+  },
+  {
+    "text": "An editor audits sales data to plan the next book budget.",
+    "labels": [
+      "Auditing",
+      "Economics",
+      "Publishing"
+    ]
+  },
+  {
+    "text": "City social workers use community studies to improve local trash services.",
+    "labels": [
+      "Social Work",
+      "Sociology",
+      "Waste Management"
+    ]
+  },
+  {
+    "text": "Scientists map the topology of soil pores to design better filter materials.",
+    "labels": [
+      "Materials Science",
+      "Soil Science",
+      "Topology"
+    ]
+  },
+  {
+    "text": "A clinic uses speech tools to give safe skincare advice while protecting patient rights.",
+    "labels": [
+      "Human Rights",
+      "Skincare",
+      "Speech Recognition"
+    ]
+  },
+  {
+    "text": "Train staff learn to use health data systems for onboard medical training.",
+    "labels": [
+      "Medical Informatics",
+      "Pedagogy",
+      "Railways"
+    ]
+  },
+  {
+    "text": "Students build small robots from recycled parts to sort trash.",
+    "labels": [
+      "Crafting",
+      "Robotics",
+      "Waste Management"
+    ]
+  },
+  {
+    "text": "Courts buy new case software with a focus on a clear user experience.",
+    "labels": [
+      "Criminal Law",
+      "Procurement",
+      "User Experience"
+    ]
+  },
+  {
+    "text": "A museum gift shop designs fossil themed clothes and plans for safety risks.",
+    "labels": [
+      "Fashion",
+      "Paleontology",
+      "Risk Management"
+    ]
+  },
+  {
+    "text": "Developers build a mental health website with secure, user friendly tools.",
+    "labels": [
+      "Psychiatry",
+      "Software Engineering",
+      "Web Development"
+    ]
+  },
+  {
+    "text": "Doctors test light based heart monitors and design clear printed labels.",
+    "labels": [
+      "Cardiology",
+      "Photonics",
+      "Typography"
+    ]
+  },
+  {
+    "text": "Hikers document alpine plant species to protect mountain biodiversity.",
+    "labels": [
+      "Biodiversity",
+      "Botany",
+      "Mountaineering"
+    ]
+  },
+  {
+    "text": "Teachers run a boat camp where kids learn to garden on deck planters.",
+    "labels": [
+      "Gardening",
+      "Pedagogy",
+      "Sailing"
+    ]
+  },
+  {
+    "text": "Shops selling cancer care items study shopper behavior to meet social needs.",
+    "labels": [
+      "Oncology",
+      "Retail",
+      "Sociology"
+    ]
+  },
+  {
+    "text": "Rail companies buy insurance and follow laws to cover accident claims.",
+    "labels": [
+      "Insurance",
+      "Law",
+      "Railways"
+    ]
+  },
+  {
+    "text": "Microbiology labs patent engineered bacteria, but many ask if it is moral to own life.",
+    "labels": [
+      "Intellectual Property",
+      "Microbiology",
+      "Morality"
+    ]
+  },
+  {
+    "text": "Beekeepers use engineered hive designs that fit how bees evolved to live.",
+    "labels": [
+      "Beekeeping",
+      "Engineering",
+      "Evolution"
+    ]
+  },
+  {
+    "text": "Governments use IT systems to improve public communication and decision making.",
+    "labels": [
+      "Communication",
+      "Governance",
+      "Information Technology"
+    ]
+  },
+  {
+    "text": "Structural engineers build docks and hatcheries that grow fisheries and boost human development.",
+    "labels": [
+      "Fisheries",
+      "Human Development",
+      "Structural Engineering"
+    ]
+  },
+  {
+    "text": "Fishing crews test chemical baits, and game theory guides fair sharing of the catch.",
+    "labels": [
+      "Chemistry",
+      "Fishing",
+      "Game Theory"
+    ]
+  },
+  {
+    "text": "Animators make videos that teach criminal law with examples from quantum mechanics.",
+    "labels": [
+      "Animation",
+      "Criminal Law",
+      "Quantum Mechanics"
+    ]
+  },
+  {
+    "text": "Social work teams use combinatorics to plan efficient case schedules in operations management.",
+    "labels": [
+      "Combinatorics",
+      "Operations Management",
+      "Social Work"
+    ]
+  },
+  {
+    "text": "Archaeologists use graph theory to map sites and meteorology to predict weather risks during digs.",
+    "labels": [
+      "Archaeology",
+      "Graph Theory",
+      "Meteorology"
+    ]
+  },
+  {
+    "text": "Researchers use number theory to model musical scales and build nano sensors for sound.",
+    "labels": [
+      "Music",
+      "Nanotechnology",
+      "Number Theory"
+    ]
+  },
+  {
+    "text": "Circus performers use heart monitors, and cybersecurity keeps their cardiology data safe.",
+    "labels": [
+      "Cardiology",
+      "Circus",
+      "Cybersecurity"
+    ]
+  },
+  {
+    "text": "A rural clinic day offers social work support, veterinary care, and a talk on relativity.",
+    "labels": [
+      "Relativity",
+      "Social Work",
+      "Veterinary Medicine"
+    ]
+  },
+  {
+    "text": "Paleontologists hunting fossils must respect human rights and get local consent.",
+    "labels": [
+      "Human Rights",
+      "Hunting",
+      "Paleontology"
+    ]
+  },
+  {
+    "text": "City clinics use speech recognition to help obstetrics staff serve busy urban patients.",
+    "labels": [
+      "Obstetrics",
+      "Speech Recognition",
+      "Urban Studies"
+    ]
+  },
+  {
+    "text": "Kids learn that magic tricks are show, while real electromagnetism tools test soil health.",
+    "labels": [
+      "Electromagnetism",
+      "Magic",
+      "Soil Science"
+    ]
+  },
+  {
+    "text": "Chemical engineering teams map geography data and work with linguists on safety signs.",
+    "labels": [
+      "Chemical Engineering",
+      "Geography",
+      "Linguistics"
+    ]
+  },
+  {
+    "text": "Researchers study plant disease spread and use renewable energy to power field labs.",
+    "labels": [
+      "Epidemiology",
+      "Plants",
+      "Renewable Energy"
+    ]
+  },
+  {
+    "text": "Math models in IT systems help public administration plan budgets and services.",
+    "labels": [
+      "Information Technology",
+      "Mathematics",
+      "Public Administration"
+    ]
+  },
+  {
+    "text": "Public policy sets rules for mountaineering apps that use cryptography to protect location data.",
+    "labels": [
+      "Cryptography",
+      "Mountaineering",
+      "Public Policy"
+    ]
+  },
+  {
+    "text": "Public policy on salons uses ethics to guide haircare safety and fair access.",
+    "labels": [
+      "Ethics",
+      "Haircare",
+      "Public Policy"
+    ]
+  },
+  {
+    "text": "Many businesses follow moral rules shaped by lessons from religious studies.",
+    "labels": [
+      "Business",
+      "Morality",
+      "Religious Studies"
+    ]
+  },
+  {
+    "text": "Researchers map glacial landforms to guide safe water plans for aging mountain towns.",
+    "labels": [
+      "Geology",
+      "Gerontology",
+      "Glaciology"
+    ]
+  },
+  {
+    "text": "Scientists test how rising heat changes snake behavior using basic physics.",
+    "labels": [
+      "Climatology",
+      "Herpetology",
+      "Physics"
+    ]
+  },
+  {
+    "text": "Researchers use calculus to model how protein levels shift with aging.",
+    "labels": [
+      "Calculus",
+      "Gerontology",
+      "Proteomics"
+    ]
+  },
+  {
+    "text": "Parents back preschool gardens that teach kids about local ecosystems.",
+    "labels": [
+      "Early Childhood",
+      "Ecology",
+      "Public Opinion"
+    ]
+  },
+  {
+    "text": "A simple equation links storm rainfall to changes in river channels.",
+    "labels": [
+      "Algebra",
+      "Climatology",
+      "Geomorphology"
+    ]
+  },
+  {
+    "text": "Villagers near eroding cliffs use game theory to share clay for pottery.",
+    "labels": [
+      "Game Theory",
+      "Geomorphology",
+      "Pottery"
+    ]
+  },
+  {
+    "text": "Police probe illegal dinosaur fossil digs on sacred land, raising crime and faith concerns.",
+    "labels": [
+      "Criminology",
+      "Paleontology",
+      "Religion"
+    ]
+  },
+  {
+    "text": "Aid planes bring supplies that support child growth and improve ties between nations.",
+    "labels": [
+      "Aviation",
+      "Human Development",
+      "International Relations"
+    ]
+  },
+  {
+    "text": "An insurer requires a factory to harden robot systems after a hacking scare.",
+    "labels": [
+      "Cybersecurity",
+      "Insurance",
+      "Mechatronics"
+    ]
+  },
+  {
+    "text": "A program teaches older adults to choose low-mercury fish for better public health.",
+    "labels": [
+      "Fishing",
+      "Gerontology",
+      "Public Health"
+    ]
+  },
+  {
+    "text": "A surgeon on a ship uses a patented tool during an operation.",
+    "labels": [
+      "Intellectual Property",
+      "Sailing",
+      "Surgery"
+    ]
+  },
+  {
+    "text": "A star map puzzle raises money to protect dark sky parks.",
+    "labels": [
+      "Astronomy",
+      "Conservation",
+      "Puzzles"
+    ]
+  },
+  {
+    "text": "A hotel tests robot helpers while offering mental health support for staff.",
+    "labels": [
+      "Hospitality",
+      "Mechatronics",
+      "Psychiatry"
+    ]
+  },
+  {
+    "text": "Scientists study forest fungi to find new medicines.",
+    "labels": [
+      "Ecology",
+      "Fungi",
+      "Pharmacy"
+    ]
+  },
+  {
+    "text": "A novel uses clear language to explain how a volcano reshapes a town.",
+    "labels": [
+      "Communication",
+      "Literature",
+      "Volcanology"
+    ]
+  },
+  {
+    "text": "A team codes an app to control a custom camera circuit.",
+    "labels": [
+      "Electrical Engineering",
+      "Photography",
+      "Software Engineering"
+    ]
+  },
+  {
+    "text": "A court weighs constitutional limits on robot mining of rare minerals.",
+    "labels": [
+      "Constitutional Law",
+      "Mineralogy",
+      "Robotics"
+    ]
+  },
+  {
+    "text": "A beekeeper cooperative sets rules to share hives and resolve disputes.",
+    "labels": [
+      "Beekeeping",
+      "Law",
+      "Organizational Behavior"
+    ]
+  },
+  {
+    "text": "A class builds simple models to study health trends in older adults.",
+    "labels": [
+      "Geriatrics",
+      "Mathematical Modeling",
+      "Pedagogy"
+    ]
+  },
+  {
+    "text": "A trade deal funds new materials labs and requires clear cost audits.",
+    "labels": [
+      "Accounting",
+      "Diplomacy",
+      "Materials Engineering"
+    ]
+  },
+  {
+    "text": "A study uses phone sensors to track quakes and weighs bioethics in sharing health data.",
+    "labels": [
+      "Bioethics",
+      "Geology",
+      "Telecommunications"
+    ]
+  },
+  {
+    "text": "A pediatric art day offers pottery while a scientist explains simple quantum ideas.",
+    "labels": [
+      "Pediatrics",
+      "Pottery",
+      "Quantum Mechanics"
+    ]
+  },
+  {
+    "text": "The school curriculum includes floriculture lessons and basic sewing projects.",
+    "labels": [
+      "Curriculum",
+      "Floriculture",
+      "Sewing"
+    ]
+  },
+  {
+    "text": "A motorcycle racing game teaches how roads shake during earthquakes.",
+    "labels": [
+      "Game Design",
+      "Motorcycling",
+      "Seismology"
+    ]
+  },
+  {
+    "text": "A publisher prints a guide on how healthy soil supports human development.",
+    "labels": [
+      "Human Development",
+      "Publishing",
+      "Soil Science"
+    ]
+  },
+  {
+    "text": "A web team uses management plans that protect mental health during crunch.",
+    "labels": [
+      "Management",
+      "Mental Health",
+      "Web Development"
+    ]
+  },
+  {
+    "text": "A museum cafe uses art history themes to guide menu design and staff behavior.",
+    "labels": [
+      "Art History",
+      "Gastronomy",
+      "Organizational Behavior"
+    ]
+  },
+  {
+    "text": "The lab tests lenses with physics and uses statistics to check results.",
+    "labels": [
+      "Optics",
+      "Physics",
+      "Statistics"
+    ]
+  },
+  {
+    "text": "A traveling circus runs safe power systems and brings a vet for animal care.",
+    "labels": [
+      "Circus",
+      "Power Systems",
+      "Veterinary Medicine"
+    ]
+  },
+  {
+    "text": "A fish farm follows bioethics while breeding stock and studying trait evolution.",
+    "labels": [
+      "Aquaculture",
+      "Bioethics",
+      "Evolution"
+    ]
+  },
+  {
+    "text": "An ed tech platform teaches how mineral resources shape international relations.",
+    "labels": [
+      "Educational Technology",
+      "International Relations",
+      "Mineralogy"
+    ]
+  },
+  {
+    "text": "An eye clinic studies how screen animations affect vision and uses statistics.",
+    "labels": [
+      "Animation",
+      "Ophthalmology",
+      "Statistics"
+    ]
+  },
+  {
+    "text": "A policy plan makes railways safer for families with young children.",
+    "labels": [
+      "Early Childhood",
+      "Public Policy",
+      "Railways"
+    ]
+  },
+  {
+    "text": "A startup builds an AR app with a strong software architecture for growth.",
+    "labels": [
+      "Augmented Reality",
+      "Entrepreneurship",
+      "Software Architecture"
+    ]
+  },
+  {
+    "text": "Designers plan a hunting lodge and consult neurologists on stress and focus.",
+    "labels": [
+      "Architecture",
+      "Hunting",
+      "Neurology"
+    ]
+  },
+  {
+    "text": "A hospital talk joins dentistry, ophthalmology, and nuclear physics on imaging safety.",
+    "labels": [
+      "Dentistry",
+      "Nuclear Physics",
+      "Ophthalmology"
+    ]
+  },
+  {
+    "text": "An ed tech app trains pediatric staff on chemical engineering behind IV fluids.",
+    "labels": [
+      "Chemical Engineering",
+      "Educational Technology",
+      "Pediatrics"
+    ]
+  },
+  {
+    "text": "A nursing school updates its curriculum to add global health geography.",
+    "labels": [
+      "Curriculum",
+      "Geography",
+      "Nursing"
+    ]
+  },
+  {
+    "text": "A club mixes fitness drills, team sports, and simple visual arts projects.",
+    "labels": [
+      "Fitness",
+      "Sports",
+      "Visual Arts"
+    ]
+  },
+  {
+    "text": "A garden class shows how starlight and climate shaped flower evolution.",
+    "labels": [
+      "Astronomy",
+      "Evolution",
+      "Floriculture"
+    ]
+  },
+  {
+    "text": "A distributed computer network analyzes star images and night insect data.",
+    "labels": [
+      "Astronomy",
+      "Distributed Systems",
+      "Entomology"
+    ]
+  },
+  {
+    "text": "Boat captains use race rules and strategy to win a sailing regatta.",
+    "labels": [
+      "Game Theory",
+      "Law",
+      "Sailing"
+    ]
+  },
+  {
+    "text": "A video game map uses place names from many languages.",
+    "labels": [
+      "Cartography",
+      "Gaming",
+      "Linguistics"
+    ]
+  },
+  {
+    "text": "Gardeners meet in VR to share tips on plant care.",
+    "labels": [
+      "Communication",
+      "Horticulture",
+      "Virtual Reality"
+    ]
+  },
+  {
+    "text": "A circus program shows costume designs with clear charts of acts.",
+    "labels": [
+      "Circus",
+      "Fashion",
+      "Information Design"
+    ]
+  },
+  {
+    "text": "The anesthesiology team cuts gas waste and composts the hospital garden.",
+    "labels": [
+      "Anesthesiology",
+      "Gardening",
+      "Sustainability"
+    ]
+  },
+  {
+    "text": "Students learn how bee venom is studied in cancer research.",
+    "labels": [
+      "Beekeeping",
+      "Education",
+      "Oncology"
+    ]
+  },
+  {
+    "text": "College students use algebra to model reactor rates in class.",
+    "labels": [
+      "Algebra",
+      "Chemical Engineering",
+      "Higher Education"
+    ]
+  },
+  {
+    "text": "A shampoo company plans shipping while testing how its liquids flow.",
+    "labels": [
+      "Fluid Dynamics",
+      "Haircare",
+      "Logistics"
+    ]
+  },
+  {
+    "text": "Developers market homes near an airport built with new composite panels.",
+    "labels": [
+      "Aviation",
+      "Materials Science",
+      "Real Estate"
+    ]
+  },
+  {
+    "text": "A flower shop maps stem links with graphs to make pleasing bouquets.",
+    "labels": [
+      "Aesthetics",
+      "Floriculture",
+      "Graph Theory"
+    ]
+  },
+  {
+    "text": "A home seller uses calming wood designs to guide buyer feelings.",
+    "labels": [
+      "Psychology",
+      "Real Estate",
+      "Woodworking"
+    ]
+  },
+  {
+    "text": "City studies use tiny sensors and population data to map crime trends.",
+    "labels": [
+      "Criminology",
+      "Demography",
+      "Nanotechnology"
+    ]
+  },
+  {
+    "text": "A winery upgrades water systems after surveys show neighbors want cleaner tech.",
+    "labels": [
+      "Environmental Engineering",
+      "Public Opinion",
+      "Wine"
+    ]
+  },
+  {
+    "text": "A shipping firm shares glossy 3D visuals to explain its delivery plans.",
+    "labels": [
+      "Computer Graphics",
+      "Logistics",
+      "Public Relations"
+    ]
+  },
+  {
+    "text": "A university course links river flow studies with sourcing metals for fair jewelry.",
+    "labels": [
+      "Higher Education",
+      "Hydrology",
+      "Jewelry"
+    ]
+  },
+  {
+    "text": "A clinic app uses clear modules and algorithms to track gynecology visits.",
+    "labels": [
+      "Algorithms",
+      "Gynecology",
+      "Software Architecture"
+    ]
+  },
+  {
+    "text": "A kids theater designs safe, colorful sets for young audiences.",
+    "labels": [
+      "Early Childhood",
+      "Interior Design",
+      "Theater"
+    ]
+  },
+  {
+    "text": "Reporters cover a dance troupe fighting for copyright on a new show.",
+    "labels": [
+      "Intellectual Property",
+      "Journalism",
+      "Performing Arts"
+    ]
+  },
+  {
+    "text": "A skincare store uses differential equations to predict demand for acne creams.",
+    "labels": [
+      "Dermatology",
+      "Differential Equations",
+      "Retail"
+    ]
+  },
+  {
+    "text": "A web app shows how calculus makes magic trick animations move smoothly.",
+    "labels": [
+      "Calculus",
+      "Magic",
+      "Web Development"
+    ]
+  },
+  {
+    "text": "A cloud app holds a map of prenatal care clinics for obstetrics teams.",
+    "labels": [
+      "Cartography",
+      "Cloud Computing",
+      "Obstetrics"
+    ]
+  },
+  {
+    "text": "Students discuss how medical devices that use magnets might change some religious rules.",
+    "labels": [
+      "Biomedical Engineering",
+      "Electromagnetism",
+      "Religious Studies"
+    ]
+  },
+  {
+    "text": "A game teaches how to invest in houses and manage money.",
+    "labels": [
+      "Finance",
+      "Gaming",
+      "Real Estate"
+    ]
+  },
+  {
+    "text": "A study uses bioinformatics on early childhood health data to guide safer classroom design.",
+    "labels": [
+      "Bioinformatics",
+      "Early Childhood",
+      "Interior Design"
+    ]
+  },
+  {
+    "text": "A teaching site shows cartoon guides while its software architecture handles bioinformatics data.",
+    "labels": [
+      "Bioinformatics",
+      "Cartoons",
+      "Software Architecture"
+    ]
+  },
+  {
+    "text": "A mechanical engineer uses math to build a device for a magic trick.",
+    "labels": [
+      "Magic",
+      "Mathematics",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "text": "Chefs test recycled packaging made with new materials to keep food fresh.",
+    "labels": [
+      "Gastronomy",
+      "Materials Engineering",
+      "Recycling"
+    ]
+  },
+  {
+    "text": "Athletes at a game watch a magic show and get free skincare samples.",
+    "labels": [
+      "Magic",
+      "Skincare",
+      "Sports"
+    ]
+  },
+  {
+    "text": "A panel debates the ethics of using oil industry waste heat to warm flower greenhouses.",
+    "labels": [
+      "Bioethics",
+      "Floriculture",
+      "Petroleum Engineering"
+    ]
+  },
+  {
+    "text": "Leaders fund vaccines based on costs and immune system research.",
+    "labels": [
+      "Economics",
+      "Governance",
+      "Immunology"
+    ]
+  },
+  {
+    "text": "Engineers build software to track asteroid risks and plan responses.",
+    "labels": [
+      "Astrophysics",
+      "Risk Management",
+      "Software Engineering"
+    ]
+  },
+  {
+    "text": "A weather app uses solid software design to help chefs plan menus.",
+    "labels": [
+      "Gastronomy",
+      "Meteorology",
+      "Software Architecture"
+    ]
+  },
+  {
+    "text": "A model learns from maps and then optimizes routes for drivers.",
+    "labels": [
+      "Cartography",
+      "Machine Learning",
+      "Optimization"
+    ]
+  },
+  {
+    "text": "A speaker uses strong rhetoric to explain how a networked system helps heart doctors share data.",
+    "labels": [
+      "Cardiology",
+      "Distributed Systems",
+      "Rhetoric"
+    ]
+  },
+  {
+    "text": "A class uses smart clay tools with tiny sensors to teach pottery skills.",
+    "labels": [
+      "Educational Technology",
+      "Microelectronics",
+      "Pottery"
+    ]
+  },
+  {
+    "text": "Researchers study how phone networks shape public opinion and politics.",
+    "labels": [
+      "Political Science",
+      "Public Opinion",
+      "Telecommunications"
+    ]
+  },
+  {
+    "text": "A coding game teaches baking steps with on-screen timers.",
+    "labels": [
+      "Baking",
+      "Game Design",
+      "Information Technology"
+    ]
+  },
+  {
+    "text": "A lesson asks how beliefs about the soul affect civil rights and faith rules.",
+    "labels": [
+      "Civil Rights",
+      "Metaphysics",
+      "Religious Studies"
+    ]
+  },
+  {
+    "text": "A web comic explains secret codes with fun cartoon panels.",
+    "labels": [
+      "Cartoons",
+      "Cryptography",
+      "Web Development"
+    ]
+  },
+  {
+    "text": "Researchers use proteomics to see how fungi affect proteins in aging cells.",
+    "labels": [
+      "Gerontology",
+      "Mycology",
+      "Proteomics"
+    ]
+  },
+  {
+    "text": "Archaeologists use photos of digs to learn how old governments worked.",
+    "labels": [
+      "Archaeology",
+      "Photography",
+      "Political Science"
+    ]
+  },
+  {
+    "text": "A teacher uses case studies to show how international law shapes accounting.",
+    "labels": [
+      "Accounting",
+      "International Law",
+      "Pedagogy"
+    ]
+  },
+  {
+    "text": "Following clear steps shows how logic guides both cooking and crafting.",
+    "labels": [
+      "Crafting",
+      "Culinary Arts",
+      "Logic"
+    ]
+  },
+  {
+    "text": "Designers built a train chapel that uses heat flow to keep riders warm during worship.",
+    "labels": [
+      "Railways",
+      "Theology",
+      "Thermodynamics"
+    ]
+  },
+  {
+    "text": "On a camping trip, students discuss what is real while a small robot helps.",
+    "labels": [
+      "Camping",
+      "Metaphysics",
+      "Robotics"
+    ]
+  },
+  {
+    "text": "An anthropologist uses creative writing to help a community share its stories.",
+    "labels": [
+      "Anthropology",
+      "Communication",
+      "Creative Writing"
+    ]
+  },
+  {
+    "text": "Public officials fund electrical engineers to upgrade power systems so surgeons can use safer tools.",
+    "labels": [
+      "Electrical Engineering",
+      "Public Administration",
+      "Surgery"
+    ]
+  },
+  {
+    "text": "A project manager runs an evolution study that is paid for by tax funds.",
+    "labels": [
+      "Evolution",
+      "Project Management",
+      "Taxation"
+    ]
+  },
+  {
+    "text": "Investigators study soil near a nuclear plant to track a dumping crime.",
+    "labels": [
+      "Criminology",
+      "Nuclear Engineering",
+      "Soil Science"
+    ]
+  },
+  {
+    "text": "In engineering projects, systems engineers use topology to design robust networks.",
+    "labels": [
+      "Engineering",
+      "Systems Engineering",
+      "Topology"
+    ]
+  },
+  {
+    "text": "A distributed sensor network in a flower farm tracks toxins that could harm the plants.",
+    "labels": [
+      "Distributed Systems",
+      "Floriculture",
+      "Toxicology"
+    ]
+  },
+  {
+    "text": "An engineer builds a smart garden and takes photos to track plant growth.",
+    "labels": [
+      "Engineering",
+      "Gardening",
+      "Photography"
+    ]
+  },
+  {
+    "text": "Doctors use puzzle-like board games to train steady hands for surgery.",
+    "labels": [
+      "Board Games",
+      "Puzzles",
+      "Surgery"
+    ]
+  },
+  {
+    "text": "An app team uses set theory to target ads to the right user groups.",
+    "labels": [
+      "Advertising",
+      "Set Theory",
+      "Software Engineering"
+    ]
+  },
+  {
+    "text": "A school uses faith-based funds to support special education programs.",
+    "labels": [
+      "Finance",
+      "Religion",
+      "Special Education"
+    ]
+  },
+  {
+    "text": "A poster series shows how ideas about genes differ across cultures.",
+    "labels": [
+      "Cultural Studies",
+      "Genetics",
+      "Graphic Design"
+    ]
+  },
+  {
+    "text": "A store models shopper flow with graph theory and differential equations.",
+    "labels": [
+      "Differential Equations",
+      "Graph Theory",
+      "Retail"
+    ]
+  },
+  {
+    "text": "New taxes fund environmental engineering projects to support sustainability.",
+    "labels": [
+      "Environmental Engineering",
+      "Sustainability",
+      "Taxation"
+    ]
+  },
+  {
+    "text": "An airline HR team hires software engineers to improve flight apps.",
+    "labels": [
+      "Aviation",
+      "Human Resources",
+      "Software Engineering"
+    ]
+  },
+  {
+    "text": "An app schedules hair salon lessons to cut wait times and improve results.",
+    "labels": [
+      "Educational Technology",
+      "Haircare",
+      "Optimization"
+    ]
+  },
+  {
+    "text": "A sailing class for seniors uses phone radios to call for help and share tips.",
+    "labels": [
+      "Geriatrics",
+      "Sailing",
+      "Telecommunications"
+    ]
+  },
+  {
+    "text": "Flower growers use coded polymer tags to protect rare plant sales.",
+    "labels": [
+      "Cryptography",
+      "Floriculture",
+      "Materials Science"
+    ]
+  },
+  {
+    "text": "A trail game teaches hikers how wildlife and plants share the forest.",
+    "labels": [
+      "Ecology",
+      "Gaming",
+      "Hiking"
+    ]
+  },
+  {
+    "text": "A plant robot texts alerts when leaves droop and need care.",
+    "labels": [
+      "Botany",
+      "Communication",
+      "Robotics"
+    ]
+  },
+  {
+    "text": "College leaders study team culture to shape fair campus policy.",
+    "labels": [
+      "Higher Education",
+      "Organizational Behavior",
+      "Public Policy"
+    ]
+  },
+  {
+    "text": "Researchers study how cosmic radiation might affect bird immune systems.",
+    "labels": [
+      "Astrophysics",
+      "Immunology",
+      "Ornithology"
+    ]
+  },
+  {
+    "text": "A cluster of lab devices runs tests to design safer cancer drugs.",
+    "labels": [
+      "Chemical Engineering",
+      "Distributed Systems",
+      "Oncology"
+    ]
+  },
+  {
+    "text": "A knitting group uses encrypted chat to share patterns.",
+    "labels": [
+      "Cybersecurity",
+      "Knitting",
+      "Telecommunications"
+    ]
+  },
+  {
+    "text": "The club tracks game fees and wood costs in a simple ledger.",
+    "labels": [
+      "Accounting",
+      "Sports",
+      "Woodworking"
+    ]
+  },
+  {
+    "text": "Hotel staff follow a code to reduce guest harm and handle complaints.",
+    "labels": [
+      "Ethics",
+      "Hospitality",
+      "Risk Management"
+    ]
+  },
+  {
+    "text": "A coding project maps how foods reflect local culture.",
+    "labels": [
+      "Cultural Studies",
+      "Gastronomy",
+      "Programming"
+    ]
+  },
+  {
+    "text": "A winery lab uses radiation detectors while staff sew sterile filter bags.",
+    "labels": [
+      "Nuclear Engineering",
+      "Sewing",
+      "Wine"
+    ]
+  },
+  {
+    "text": "A smart food line uses sensors and motors to check meal quality.",
+    "labels": [
+      "Mechatronics",
+      "Nutrition",
+      "Quality Management"
+    ]
+  },
+  {
+    "text": "A fish farm sim game teaches budgets and cost tracking.",
+    "labels": [
+      "Accounting",
+      "Aquaculture",
+      "Game Design"
+    ]
+  },
+  {
+    "text": "A teacher uses simple games to explain odds and best choices.",
+    "labels": [
+      "Education",
+      "Game Theory",
+      "Probability"
+    ]
+  },
+  {
+    "text": "A card trick uses leaf shapes to teach angles and plant forms.",
+    "labels": [
+      "Botany",
+      "Geometry",
+      "Magic"
+    ]
+  },
+  {
+    "text": "A research game uses AI to model choices after earthquake alerts.",
+    "labels": [
+      "Artificial Intelligence",
+      "Game Studies",
+      "Seismology"
+    ]
+  },
+  {
+    "text": "Bakery staff learn a new operating system to manage ovens and orders for guests.",
+    "labels": [
+      "Baking",
+      "Hospitality",
+      "Operating Systems"
+    ]
+  },
+  {
+    "text": "The lab orders sensors to control vaccine fridge temperature.",
+    "labels": [
+      "Control Systems",
+      "Immunology",
+      "Procurement"
+    ]
+  },
+  {
+    "text": "Designers use ideas from evolution to shape interfaces that win public support.",
+    "labels": [
+      "Evolution",
+      "Interaction Design",
+      "Public Opinion"
+    ]
+  },
+  {
+    "text": "A history show explained how safer car design helps pregnant drivers, with input from gynecology.",
+    "labels": [
+      "Automotive Engineering",
+      "Gynecology",
+      "History"
+    ]
+  },
+  {
+    "text": "An animal clinic used physics and industrial engineering to speed up safe care.",
+    "labels": [
+      "Industrial Engineering",
+      "Physics",
+      "Veterinary Medicine"
+    ]
+  },
+  {
+    "text": "Public polls praise bakeries that offer healthier breads with better nutrition.",
+    "labels": [
+      "Baking",
+      "Nutrition",
+      "Public Opinion"
+    ]
+  },
+  {
+    "text": "An IT team used clean typography in a portal to show genomics data.",
+    "labels": [
+      "Genomics",
+      "Information Technology",
+      "Typography"
+    ]
+  },
+  {
+    "text": "A report studied how nursing work shapes society, and journalists shared the findings.",
+    "labels": [
+      "Journalism",
+      "Nursing",
+      "Sociology"
+    ]
+  },
+  {
+    "text": "Researchers use math on cloud servers to analyze large genomics datasets.",
+    "labels": [
+      "Cloud Computing",
+      "Genomics",
+      "Mathematics"
+    ]
+  },
+  {
+    "text": "A design studio mixed bold typography and visual art to present a mechanical engine.",
+    "labels": [
+      "Mechanical Engineering",
+      "Typography",
+      "Visual Arts"
+    ]
+  },
+  {
+    "text": "Hospital managers launched a park program, linking heart health walks with local biodiversity.",
+    "labels": [
+      "Biodiversity",
+      "Cardiology",
+      "Management"
+    ]
+  },
+  {
+    "text": "Doctors studied plant genomics to find new drugs.",
+    "labels": [
+      "Genomics",
+      "Medicine",
+      "Plants"
+    ]
+  },
+  {
+    "text": "A museum event mixed space talks, gender studies panels, and fun games for visitors.",
+    "labels": [
+      "Cosmology",
+      "Gender Studies",
+      "Recreation"
+    ]
+  },
+  {
+    "text": "Developers built graphics software to model rock layers for geology classes.",
+    "labels": [
+      "Computer Graphics",
+      "Geology",
+      "Software Engineering"
+    ]
+  },
+  {
+    "text": "Philosophy posts online asked why we should recycle and how we know it helps.",
+    "labels": [
+      "Philosophy",
+      "Recycling",
+      "Social Media"
+    ]
+  },
+  {
+    "text": "Hospital operations leaders used data science to plan anesthesiology staffing.",
+    "labels": [
+      "Anesthesiology",
+      "Data Science",
+      "Operations Management"
+    ]
+  },
+  {
+    "text": "Analysts reviewed how spores ride air flows to shape fungus control policy.",
+    "labels": [
+      "Fluid Dynamics",
+      "Fungi",
+      "Policy Analysis"
+    ]
+  },
+  {
+    "text": "A festival mixed circus acts with esports matches and classic video gaming.",
+    "labels": [
+      "Circus",
+      "Esports",
+      "Gaming"
+    ]
+  },
+  {
+    "text": "The obstetrics ward uses a stable operating system to run a beauty and wellness info screen.",
+    "labels": [
+      "Beauty",
+      "Obstetrics",
+      "Operating Systems"
+    ]
+  },
+  {
+    "text": "A coastal festival streamed fish farm tours over a network and ended with a dance show.",
+    "labels": [
+      "Aquaculture",
+      "Computer Networks",
+      "Dance"
+    ]
+  },
+  {
+    "text": "A camp used checklists to track quality while guests played board games and went boating.",
+    "labels": [
+      "Board Games",
+      "Boating",
+      "Quality Management"
+    ]
+  },
+  {
+    "text": "A play explored beauty standards and global law in a simple courtroom scene.",
+    "labels": [
+      "Beauty",
+      "International Law",
+      "Theater"
+    ]
+  },
+  {
+    "text": "Engineers use space physics and shape math to design stable satellite paths.",
+    "labels": [
+      "Aerospace Engineering",
+      "Astrophysics",
+      "Topology"
+    ]
+  },
+  {
+    "text": "Engineers build wildlife crossings, and vets do surgery on hurt animals.",
+    "labels": [
+      "Animals",
+      "Civil Engineering",
+      "Surgery"
+    ]
+  },
+  {
+    "text": "AI scans microbe data to guide health plans while protecting civil rights.",
+    "labels": [
+      "Artificial Intelligence",
+      "Civil Rights",
+      "Microbiology"
+    ]
+  },
+  {
+    "text": "Researchers use machine learning to study heat flow and think about what counts as knowledge.",
+    "labels": [
+      "Machine Learning",
+      "Philosophy",
+      "Thermodynamics"
+    ]
+  },
+  {
+    "text": "A model uses algebra to study voting rights trends.",
+    "labels": [
+      "Algebra",
+      "Civil Rights",
+      "Mathematical Modeling"
+    ]
+  },
+  {
+    "text": "Eye doctors study how city air toxins harm vision.",
+    "labels": [
+      "Ophthalmology",
+      "Toxicology",
+      "Urban Studies"
+    ]
+  },
+  {
+    "text": "A wood shop uses a computer program to plan work around weather changes.",
+    "labels": [
+      "Computer Science",
+      "Meteorology",
+      "Woodworking"
+    ]
+  },
+  {
+    "text": "A bakery uses clear package designs to cut food waste.",
+    "labels": [
+      "Baking",
+      "Graphic Design",
+      "Waste Management"
+    ]
+  },
+  {
+    "text": "An app uses bold icons to help people identify local insects.",
+    "labels": [
+      "Entomology",
+      "Graphic Design",
+      "Software Engineering"
+    ]
+  },
+  {
+    "text": "A secure sensor network helps a nuclear plant supply steady power for aging communities.",
+    "labels": [
+      "Computer Networks",
+      "Gerontology",
+      "Nuclear Engineering"
+    ]
+  },
+  {
+    "text": "Rail station design balances cost and boosts local business.",
+    "labels": [
+      "Architecture",
+      "Economics",
+      "Railways"
+    ]
+  },
+  {
+    "text": "A factory counts pattern options to plan knitting runs and yarn deliveries.",
+    "labels": [
+      "Combinatorics",
+      "Knitting",
+      "Supply Chain"
+    ]
+  },
+  {
+    "text": "Imaging tools help study how pollution affects wildlife and community health.",
+    "labels": [
+      "Ecology",
+      "Radiology",
+      "Sociology"
+    ]
+  },
+  {
+    "text": "Researchers ask how we know if city microbe models are telling the truth.",
+    "labels": [
+      "Computational Biology",
+      "Epistemology",
+      "Urban Studies"
+    ]
+  },
+  {
+    "text": "A solar powered fish farm uses vets to keep the stock healthy.",
+    "labels": [
+      "Aquaculture",
+      "Renewable Energy",
+      "Veterinary Medicine"
+    ]
+  },
+  {
+    "text": "Planners use clear logic to design sea safety guides for older sailors.",
+    "labels": [
+      "Geriatrics",
+      "Logic",
+      "Oceanography"
+    ]
+  },
+  {
+    "text": "Census maps help beekeepers protect diverse habitats near growing towns.",
+    "labels": [
+      "Beekeeping",
+      "Biodiversity",
+      "Demography"
+    ]
+  },
+  {
+    "text": "A teacher uses hands-on methods at a vineyard to explain how wine is made.",
+    "labels": [
+      "Education",
+      "Pedagogy",
+      "Wine"
+    ]
+  },
+  {
+    "text": "A drone with tiny sensors maps land and takes sharp photos.",
+    "labels": [
+      "Geography",
+      "Microelectronics",
+      "Photography"
+    ]
+  },
+  {
+    "text": "Scholars study how cultures talk about mushrooms and cancer.",
+    "labels": [
+      "Cultural Studies",
+      "Fungi",
+      "Oncology"
+    ]
+  },
+  {
+    "text": "Road engineers use combinatorics to plan clear typography on highway signs.",
+    "labels": [
+      "Civil Engineering",
+      "Combinatorics",
+      "Typography"
+    ]
+  },
+  {
+    "text": "An online shop sells insect kits named after mythic gods.",
+    "labels": [
+      "Ecommerce",
+      "Entomology",
+      "Mythology"
+    ]
+  },
+  {
+    "text": "A university mineralogy club invites geriatric patients to handle safe rock samples.",
+    "labels": [
+      "Geriatrics",
+      "Higher Education",
+      "Mineralogy"
+    ]
+  },
+  {
+    "text": "Researchers use algorithms based on psychology to improve speech recognition.",
+    "labels": [
+      "Algorithms",
+      "Psychology",
+      "Speech Recognition"
+    ]
+  },
+  {
+    "text": "The team uses cultural studies to shape microelectronics procurement in global markets.",
+    "labels": [
+      "Cultural Studies",
+      "Microelectronics",
+      "Procurement"
+    ]
+  },
+  {
+    "text": "Engineers apply metalworking methods to craft nanostructures that give cosmetics a soft shimmer.",
+    "labels": [
+      "Cosmetics",
+      "Metalworking",
+      "Nanotechnology"
+    ]
+  },
+  {
+    "text": "Epistemology guides how we trust hydrology data and our moral choices about water use.",
+    "labels": [
+      "Epistemology",
+      "Hydrology",
+      "Morality"
+    ]
+  },
+  {
+    "text": "Mechanical engineers use physics to design safer travel systems.",
+    "labels": [
+      "Mechanical Engineering",
+      "Physics",
+      "Travel"
+    ]
+  },
+  {
+    "text": "Scholars use combinatorics to model disease spread while theology debates the meaning of suffering.",
+    "labels": [
+      "Combinatorics",
+      "Pathology",
+      "Theology"
+    ]
+  },
+  {
+    "text": "An auditor checks a veterinary clinic that uses physics tools like X-rays.",
+    "labels": [
+      "Auditing",
+      "Physics",
+      "Veterinary Medicine"
+    ]
+  },
+  {
+    "text": "A lab uses cartoons to teach glaciology and improve organizational behavior in teams.",
+    "labels": [
+      "Cartoons",
+      "Glaciology",
+      "Organizational Behavior"
+    ]
+  },
+  {
+    "text": "A smart building blends architecture with mechatronics to streamline operations management.",
+    "labels": [
+      "Architecture",
+      "Mechatronics",
+      "Operations Management"
+    ]
+  },
+  {
+    "text": "A club uses game theory to design fair rules for microelectronics recreation contests.",
+    "labels": [
+      "Game Theory",
+      "Microelectronics",
+      "Recreation"
+    ]
+  },
+  {
+    "text": "Investors use data science to track markets for fungi like edible mushrooms.",
+    "labels": [
+      "Data Science",
+      "Fungi",
+      "Investments"
+    ]
+  },
+  {
+    "text": "A crafting app on the cloud uses clear rhetoric to guide users through projects.",
+    "labels": [
+      "Cloud Computing",
+      "Crafting",
+      "Rhetoric"
+    ]
+  },
+  {
+    "text": "Courts apply constitutional law when funding cosmology and environmental engineering programs.",
+    "labels": [
+      "Constitutional Law",
+      "Cosmology",
+      "Environmental Engineering"
+    ]
+  },
+  {
+    "text": "Analysts review radiology safety policies for railways that scan cargo.",
+    "labels": [
+      "Policy Analysis",
+      "Radiology",
+      "Railways"
+    ]
+  },
+  {
+    "text": "Engineers use calculus to tune control systems that follow maps from cartography teams.",
+    "labels": [
+      "Calculus",
+      "Cartography",
+      "Control Systems"
+    ]
+  },
+  {
+    "text": "A robot crafts jewelry and uses clear communication to work with a human designer.",
+    "labels": [
+      "Communication",
+      "Jewelry",
+      "Robotics"
+    ]
+  },
+  {
+    "text": "Mechanical engineers use logic to build mapping robots for cartography.",
+    "labels": [
+      "Cartography",
+      "Logic",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "text": "A petroleum engineer works with web developers to design a user friendly portal for well data.",
+    "labels": [
+      "Petroleum Engineering",
+      "User Experience",
+      "Web Development"
+    ]
+  },
+  {
+    "text": "Students use algebra to study cancer rates and debate bioethics in treatment choices.",
+    "labels": [
+      "Algebra",
+      "Bioethics",
+      "Oncology"
+    ]
+  },
+  {
+    "text": "A manager trains staff in gender studies to improve fair social work services.",
+    "labels": [
+      "Gender Studies",
+      "Management",
+      "Social Work"
+    ]
+  },
+  {
+    "text": "A game designer builds a magic themed game that teaches how public policy works.",
+    "labels": [
+      "Game Design",
+      "Magic",
+      "Public Policy"
+    ]
+  },
+  {
+    "text": "An auditor reviews a haircare brand that sponsors motorcycling events.",
+    "labels": [
+      "Auditing",
+      "Haircare",
+      "Motorcycling"
+    ]
+  },
+  {
+    "text": "An auditor uses puzzle like tests to verify a motorcycling club budget.",
+    "labels": [
+      "Auditing",
+      "Motorcycling",
+      "Puzzles"
+    ]
+  },
+  {
+    "text": "A dietitian works with herpetology and ornithology teams to plan reptile and bird meals.",
+    "labels": [
+      "Dietetics",
+      "Herpetology",
+      "Ornithology"
+    ]
+  },
+  {
+    "text": "A preschool app uses algorithms to shape acoustics for clear story time audio.",
+    "labels": [
+      "Acoustics",
+      "Algorithms",
+      "Early Childhood"
+    ]
+  },
+  {
+    "text": "A radio show broadcasts tips on haircare for people who go hiking.",
+    "labels": [
+      "Broadcasting",
+      "Haircare",
+      "Hiking"
+    ]
+  },
+  {
+    "text": "An airline ad uses bold typography and a stage magic theme to sell flights.",
+    "labels": [
+      "Aviation",
+      "Magic",
+      "Typography"
+    ]
+  },
+  {
+    "text": "A farm school uses virtual reality to teach horticulture and basic veterinary care.",
+    "labels": [
+      "Horticulture",
+      "Veterinary Medicine",
+      "Virtual Reality"
+    ]
+  },
+  {
+    "text": "A teacher uses banking examples to explain how taxes work.",
+    "labels": [
+      "Banking",
+      "Pedagogy",
+      "Taxation"
+    ]
+  },
+  {
+    "text": "A camp teaches kids to sew gear while a robot guide helps plan safe hikes.",
+    "labels": [
+      "Hiking",
+      "Robotics",
+      "Sewing"
+    ]
+  },
+  {
+    "text": "A club bakes snacks and builds wooden booths for a civil rights fair.",
+    "labels": [
+      "Baking",
+      "Civil Rights",
+      "Woodworking"
+    ]
+  },
+  {
+    "text": "A school runs a program where a bank funds classes in computational biology.",
+    "labels": [
+      "Banking",
+      "Computational Biology",
+      "Education"
+    ]
+  },
+  {
+    "text": "A preschool program uses simple computer science games over a telecommunications app.",
+    "labels": [
+      "Computer Science",
+      "Early Childhood",
+      "Telecommunications"
+    ]
+  },
+  {
+    "text": "A news site posts cartoons that explain soil science to kids.",
+    "labels": [
+      "Cartoons",
+      "Journalism",
+      "Soil Science"
+    ]
+  },
+  {
+    "text": "A journalist covers dietetics research and uses number theory to spot odd patterns.",
+    "labels": [
+      "Dietetics",
+      "Journalism",
+      "Number Theory"
+    ]
+  },
+  {
+    "text": "A student uses computer vision to scan buildings and writes a creative story about the architecture.",
+    "labels": [
+      "Architecture",
+      "Computer Vision",
+      "Creative Writing"
+    ]
+  },
+  {
+    "text": "A pediatric team studies how glacier weather and hunting seasons affect child health.",
+    "labels": [
+      "Glaciology",
+      "Hunting",
+      "Pediatrics"
+    ]
+  },
+  {
+    "text": "A map shows border forests where international timber laws shape local woodworking.",
+    "labels": [
+      "Geography",
+      "International Law",
+      "Woodworking"
+    ]
+  },
+  {
+    "text": "The captain manages the crew and uses radios to communicate while sailing.",
+    "labels": [
+      "Communication",
+      "Management",
+      "Sailing"
+    ]
+  },
+  {
+    "text": "A zoo hosts a play to raise money for social work that uses animals in therapy.",
+    "labels": [
+      "Performing Arts",
+      "Social Work",
+      "Zoology"
+    ]
+  },
+  {
+    "text": "A university safety course teaches rules for boating and motorcycling.",
+    "labels": [
+      "Boating",
+      "Higher Education",
+      "Motorcycling"
+    ]
+  },
+  {
+    "text": "A study uses differential equations to model public opinion in theology debates.",
+    "labels": [
+      "Differential Equations",
+      "Public Opinion",
+      "Theology"
+    ]
+  },
+  {
+    "text": "A smart hotel uses algorithms to schedule staff and control lights with electromagnetic sensors.",
+    "labels": [
+      "Algorithms",
+      "Electromagnetism",
+      "Hospitality"
+    ]
+  },
+  {
+    "text": "A university lab uses mechatronics to build home robots that help families.",
+    "labels": [
+      "Family Studies",
+      "Higher Education",
+      "Mechatronics"
+    ]
+  },
+  {
+    "text": "A museum uses clear charts to show how religion affects human development.",
+    "labels": [
+      "Human Development",
+      "Information Design",
+      "Religion"
+    ]
+  },
+  {
+    "text": "A solar-powered pharmacy uses clean typography on labels to help patients.",
+    "labels": [
+      "Pharmacy",
+      "Renewable Energy",
+      "Typography"
+    ]
+  },
+  {
+    "text": "A garden fair features plant-themed fashion and a puzzle contest.",
+    "labels": [
+      "Fashion",
+      "Horticulture",
+      "Puzzles"
+    ]
+  },
+  {
+    "text": "A health project uses systems engineering and computational biology to advance civil rights.",
+    "labels": [
+      "Civil Rights",
+      "Computational Biology",
+      "Systems Engineering"
+    ]
+  },
+  {
+    "text": "A school play uses comic art to explain how chemical engineering treats water.",
+    "labels": [
+      "Chemical Engineering",
+      "Comics",
+      "Theater"
+    ]
+  },
+  {
+    "text": "The clinic plans anesthesia workflows with good management and clear software architecture.",
+    "labels": [
+      "Anesthesiology",
+      "Management",
+      "Software Architecture"
+    ]
+  },
+  {
+    "text": "A church campus installs solar lighting using photonics to support sustainability.",
+    "labels": [
+      "Photonics",
+      "Religious Studies",
+      "Sustainability"
+    ]
+  },
+  {
+    "text": "Sensors send earthquake data by radio, linking seismology, electromagnetism, and telecommunications.",
+    "labels": [
+      "Electromagnetism",
+      "Seismology",
+      "Telecommunications"
+    ]
+  },
+  {
+    "text": "A dance company tracks costumes with supply chain tools and careful accounting.",
+    "labels": [
+      "Accounting",
+      "Dance",
+      "Supply Chain"
+    ]
+  },
+  {
+    "text": "A city office makes an animated video with a board game theme to explain new services.",
+    "labels": [
+      "Animation",
+      "Board Games",
+      "Public Administration"
+    ]
+  },
+  {
+    "text": "A press publishes essays on rights that join constitutional law with philosophy.",
+    "labels": [
+      "Constitutional Law",
+      "Philosophy",
+      "Publishing"
+    ]
+  },
+  {
+    "text": "A math curriculum adds basics of statistics and topology for deeper thinking.",
+    "labels": [
+      "Curriculum",
+      "Statistics",
+      "Topology"
+    ]
+  },
+  {
+    "text": "Researchers use chemical engineering to safely extract metals from soil for jewelry.",
+    "labels": [
+      "Chemical Engineering",
+      "Jewelry",
+      "Soil Science"
+    ]
+  },
+  {
+    "text": "The recycling firm uses accounting records so its insurance rates are set fairly.",
+    "labels": [
+      "Accounting",
+      "Insurance",
+      "Recycling"
+    ]
+  },
+  {
+    "text": "A dietetics study stores meal data in a database and follows bioethics rules.",
+    "labels": [
+      "Bioethics",
+      "Databases",
+      "Dietetics"
+    ]
+  },
+  {
+    "text": "A TV news team streams over computer networks to show maps from hydrology reports.",
+    "labels": [
+      "Computer Networks",
+      "Hydrology",
+      "Television"
+    ]
+  },
+  {
+    "text": "A virtual reality tour lets anthropology students study how pharmacies serve different cultures.",
+    "labels": [
+      "Anthropology",
+      "Pharmacy",
+      "Virtual Reality"
+    ]
+  },
+  {
+    "text": "A teacher uses pedagogy to guide a class project that analyzes park policies for safe recreation.",
+    "labels": [
+      "Pedagogy",
+      "Policy Analysis",
+      "Recreation"
+    ]
+  },
+  {
+    "text": "A photo project links ancient classics about women with the history of gynecology.",
+    "labels": [
+      "Classics",
+      "Gynecology",
+      "Photography"
+    ]
+  },
+  {
+    "text": "Researchers in neurology and obstetrics use soil science maps to study how soil lead harms newborn brains.",
+    "labels": [
+      "Neurology",
+      "Obstetrics",
+      "Soil Science"
+    ]
+  },
+  {
+    "text": "A seminar links classics on law, criminology case studies, and the rise of forensic medicine.",
+    "labels": [
+      "Classics",
+      "Criminology",
+      "Medicine"
+    ]
+  },
+  {
+    "text": "A health team uses bioinformatics and medical informatics with geography maps to track disease spread.",
+    "labels": [
+      "Bioinformatics",
+      "Geography",
+      "Medical Informatics"
+    ]
+  },
+  {
+    "text": "Engineers train speech recognition to control robots that monitor animals in the wild.",
+    "labels": [
+      "Animals",
+      "Engineering",
+      "Speech Recognition"
+    ]
+  },
+  {
+    "text": "Public administration applies civil rights standards when reviewing mining plans guided by mineralogy data.",
+    "labels": [
+      "Civil Rights",
+      "Mineralogy",
+      "Public Administration"
+    ]
+  },
+  {
+    "text": "A map app shows safe fishing spots for family recreation.",
+    "labels": [
+      "Cartography",
+      "Fishing",
+      "Recreation"
+    ]
+  },
+  {
+    "text": "A science app uses smart interaction design to teach ichthyology and show how fish aid oncology research.",
+    "labels": [
+      "Ichthyology",
+      "Interaction Design",
+      "Oncology"
+    ]
+  },
+  {
+    "text": "A senior center project has geriatrics staff support safe metalworking to build props for a play.",
+    "labels": [
+      "Geriatrics",
+      "Metalworking",
+      "Performing Arts"
+    ]
+  },
+  {
+    "text": "A poster uses bold typography and visual arts to promote local biodiversity.",
+    "labels": [
+      "Biodiversity",
+      "Typography",
+      "Visual Arts"
+    ]
+  },
+  {
+    "text": "An ecommerce site sells car detailing cosmetics developed with automotive engineering.",
+    "labels": [
+      "Automotive Engineering",
+      "Cosmetics",
+      "Ecommerce"
+    ]
+  },
+  {
+    "text": "A business pitch uses a cartoon to explain a new mechanical engineering device.",
+    "labels": [
+      "Business",
+      "Cartoons",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "text": "A forum lets theologians, biomedical engineers, and veterinarians discuss ethics of animal implants.",
+    "labels": [
+      "Biomedical Engineering",
+      "Theology",
+      "Veterinary Medicine"
+    ]
+  },
+  {
+    "text": "A fashion brand uses cloud computing to track factories that run on renewable energy.",
+    "labels": [
+      "Cloud Computing",
+      "Fashion",
+      "Renewable Energy"
+    ]
+  },
+  {
+    "text": "City governance funds chemistry tests to keep floriculture soils safe.",
+    "labels": [
+      "Chemistry",
+      "Floriculture",
+      "Governance"
+    ]
+  },
+  {
+    "text": "An international task force audits outbreak data to guide public health agreements.",
+    "labels": [
+      "Auditing",
+      "Epidemiology",
+      "International Relations"
+    ]
+  },
+  {
+    "text": "The team audits the accounting for a festival about world mythology.",
+    "labels": [
+      "Accounting",
+      "Auditing",
+      "Mythology"
+    ]
+  },
+  {
+    "text": "A charity esports tournament uses number theory puzzles to raise awareness of human rights.",
+    "labels": [
+      "Esports",
+      "Human Rights",
+      "Number Theory"
+    ]
+  },
+  {
+    "text": "A local election highlights human rights and funding for mycology research labs.",
+    "labels": [
+      "Elections",
+      "Human Rights",
+      "Mycology"
+    ]
+  },
+  {
+    "text": "A court tests a photonics surveillance law as experts present differential equations on how the sensors work.",
+    "labels": [
+      "Constitutional Law",
+      "Differential Equations",
+      "Photonics"
+    ]
+  },
+  {
+    "text": "An urban study tests rooftop aquaculture water chemistry to feed the city.",
+    "labels": [
+      "Aquaculture",
+      "Chemistry",
+      "Urban Studies"
+    ]
+  },
+  {
+    "text": "A bank funds a retail startup that grows fungi to make meatless snacks.",
+    "labels": [
+      "Banking",
+      "Fungi",
+      "Retail"
+    ]
+  },
+  {
+    "text": "A class uses number theory in mathematical modeling to study patterns in world mythology.",
+    "labels": [
+      "Mathematical Modeling",
+      "Mythology",
+      "Number Theory"
+    ]
+  },
+  {
+    "text": "A court hears a case on genetic data in a distributed system under constitutional law privacy rules.",
+    "labels": [
+      "Constitutional Law",
+      "Distributed Systems",
+      "Genetics"
+    ]
+  },
+  {
+    "text": "A clinic uses optimization to schedule medical photography, raising bioethics concerns about consent.",
+    "labels": [
+      "Bioethics",
+      "Optimization",
+      "Photography"
+    ]
+  },
+  {
+    "text": "A business uses a control system to adjust online advertising spend in real time.",
+    "labels": [
+      "Advertising",
+      "Business",
+      "Control Systems"
+    ]
+  },
+  {
+    "text": "A weekend camping trip adds an esports tent and a small robotics workshop.",
+    "labels": [
+      "Camping",
+      "Esports",
+      "Robotics"
+    ]
+  },
+  {
+    "text": "A cooking app on your operating system uses genomics data to tailor meal plans.",
+    "labels": [
+      "Cooking",
+      "Genomics",
+      "Operating Systems"
+    ]
+  },
+  {
+    "text": "A graphic designer makes posters on motorcycle theft laws under criminal law.",
+    "labels": [
+      "Criminal Law",
+      "Graphic Design",
+      "Motorcycling"
+    ]
+  },
+  {
+    "text": "A science park uses landscaping to attract birds for ornithology while hosting a quantum mechanics exhibit.",
+    "labels": [
+      "Landscaping",
+      "Ornithology",
+      "Quantum Mechanics"
+    ]
+  },
+  {
+    "text": "A school updates its curriculum to teach cybersecurity and materials engineering.",
+    "labels": [
+      "Curriculum",
+      "Cybersecurity",
+      "Materials Engineering"
+    ]
+  },
+  {
+    "text": "An app for motorcyclists uses algorithms on a distributed system to map safe routes.",
+    "labels": [
+      "Algorithms",
+      "Distributed Systems",
+      "Motorcycling"
+    ]
+  },
+  {
+    "text": "A conference joins electrical engineering demos with metaphysics talks and tax policy panels.",
+    "labels": [
+      "Electrical Engineering",
+      "Metaphysics",
+      "Taxation"
+    ]
+  },
+  {
+    "text": "A lab uses mechanical engineering to build devices for immunology studies in geriatrics.",
+    "labels": [
+      "Geriatrics",
+      "Immunology",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "text": "An auditor checks AI systems that guide aerospace engineering tests.",
+    "labels": [
+      "Aerospace Engineering",
+      "Artificial Intelligence",
+      "Auditing"
+    ]
+  }
+]

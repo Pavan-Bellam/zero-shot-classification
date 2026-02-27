@@ -1,0 +1,23 @@
+seed: 422
+
+data:
+  path: "data/synthetic_data.json"
+  generation:
+    llm_model: "gpt-5"
+    concurrent: 100
+    num_topics: 300
+    num_samples: 1000
+    labels_per_sample: 3
+    batch_size: 20
+
+train:
+  model_name: "bert-base-uncased"
+  max_num_labels: 5
+  batch_size: 64
+  lr: 2e-5
+  max_steps: 1000
+  warmup_ratio: 0.1
+  pos_weight_scale: 0.3  # exponent for (total/positives)^scale | 0 = no weight, 0.5 = sqrt, 1 = full
+  model_type: colbert  # bi_encoder, poly_encoder, or colbert
+  n_code_vectors: 16         # poly_encoder only
+  colbert_dim: 64          # colbert only: projection dimension
